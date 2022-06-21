@@ -1,0 +1,1123 @@
+"Section ID","Section","HS2 ID","HS2","HS4 ID","HS4","Year","Quarter ID","Quarter","Month ID","Month","Time","Trade Value"
+1,"Animal Products",101,"Live animals",10101,"Horses",2022,1,"Q1",1,"January",202201,140448.01
+1,"Animal Products",101,"Live animals",10102,"Bovine",2022,1,"Q1",1,"January",202201,162982.54
+1,"Animal Products",101,"Live animals",10103,"Pigs",2022,1,"Q1",1,"January",202201,1143667.23
+1,"Animal Products",101,"Live animals",10104,"Sheep and Goats",2022,1,"Q1",1,"January",202201,42038.64
+1,"Animal Products",101,"Live animals",10105,"Poultry",2022,1,"Q1",1,"January",202201,614400.9400000001
+1,"Animal Products",101,"Live animals",10106,"Other Animals",2022,1,"Q1",1,"January",202201,216998.4
+1,"Animal Products",102,"Meat and edible meat offal",10201,"Bovine Meat",2022,1,"Q1",1,"January",202201,1728063.81
+1,"Animal Products",102,"Meat and edible meat offal",10202,"Frozen Bovine Meat",2022,1,"Q1",1,"January",202201,14998629.960000003
+1,"Animal Products",102,"Meat and edible meat offal",10203,"Pig Meat",2022,1,"Q1",1,"January",202201,16376367.839999996
+1,"Animal Products",102,"Meat and edible meat offal",10204,"Sheep and Goat Meat",2022,1,"Q1",1,"January",202201,10754.67
+1,"Animal Products",102,"Meat and edible meat offal",10205,"Horse Meat",2022,1,"Q1",1,"January",202201,10395.53
+1,"Animal Products",102,"Meat and edible meat offal",10206,"Edible Offal",2022,1,"Q1",1,"January",202201,1825596.4599999997
+1,"Animal Products",102,"Meat and edible meat offal",10207,"Poultry Meat",2022,1,"Q1",1,"January",202201,46190149.160000004
+1,"Animal Products",102,"Meat and edible meat offal",10208,"Other Meat",2022,1,"Q1",1,"January",202201,115057.54999999999
+1,"Animal Products",102,"Meat and edible meat offal",10209,"Animal Fat",2022,1,"Q1",1,"January",202201,1111798.7999999998
+1,"Animal Products",102,"Meat and edible meat offal",10210,"Preserved Meat",2022,1,"Q1",1,"January",202201,3198.980000000001
+1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10301,"Live Fish",2022,1,"Q1",1,"January",202201,176975.91
+1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10302,"Non-fillet Fresh Fish",2022,1,"Q1",1,"January",202201,716260.8999999999
+1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10303,"Non-fillet Frozen Fish",2022,1,"Q1",1,"January",202201,141691308.01999998
+1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10304,"Fish Fillets",2022,1,"Q1",1,"January",202201,30187468.759999998
+1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10305,"Processed Fish",2022,1,"Q1",1,"January",202201,2490103.2600000002
+1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10306,"Crustaceans",2022,1,"Q1",1,"January",202201,112889086.81
+1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10307,"Molluscs",2022,1,"Q1",1,"January",202201,7319076.040000001
+1,"Animal Products",103,"Fish and crustaceans, molluscs and other aquatic invertebrates",10308,"Aquatic invertebrates, other than crustaceans and molluscs",2022,1,"Q1",1,"January",202201,2946489.0800000005
+1,"Animal Products",104,"Dairy products and other edible products of animal origin",10401,"Milk",2022,1,"Q1",1,"January",202201,3402646.159999999
+1,"Animal Products",104,"Dairy products and other edible products of animal origin",10402,"Concentrated Milk",2022,1,"Q1",1,"January",202201,2078392.9700000002
+1,"Animal Products",104,"Dairy products and other edible products of animal origin",10403,"Fermented Milk Products",2022,1,"Q1",1,"January",202201,4929212.829999999
+1,"Animal Products",104,"Dairy products and other edible products of animal origin",10404,"Whey",2022,1,"Q1",1,"January",202201,913648.6699999999
+1,"Animal Products",104,"Dairy products and other edible products of animal origin",10405,"Butter",2022,1,"Q1",1,"January",202201,1268545.5799999996
+1,"Animal Products",104,"Dairy products and other edible products of animal origin",10406,"Cheese",2022,1,"Q1",1,"January",202201,8556245.18
+1,"Animal Products",104,"Dairy products and other edible products of animal origin",10407,"Eggs",2022,1,"Q1",1,"January",202201,2208528.8900000006
+1,"Animal Products",104,"Dairy products and other edible products of animal origin",10408,"Processed Egg Products",2022,1,"Q1",1,"January",202201,206248.08999999997
+1,"Animal Products",104,"Dairy products and other edible products of animal origin",10409,"Honey",2022,1,"Q1",1,"January",202201,277441.01999999996
+1,"Animal Products",105,"Animal originated products; not elsewhere specified or included",10502,"Pig Hair",2022,1,"Q1",1,"January",202201,115.24
+1,"Animal Products",105,"Animal originated products; not elsewhere specified or included",10504,"Animal Organs",2022,1,"Q1",1,"January",202201,1846995.49
+1,"Animal Products",105,"Animal originated products; not elsewhere specified or included",10505,"Bird Feathers and Skins",2022,1,"Q1",1,"January",202201,2936630.5499999993
+1,"Animal Products",105,"Animal originated products; not elsewhere specified or included",10506,"Processed Bones",2022,1,"Q1",1,"January",202201,1430.61
+1,"Animal Products",105,"Animal originated products; not elsewhere specified or included",10507,"Raw Bones",2022,1,"Q1",1,"January",202201,221316.63
+1,"Animal Products",105,"Animal originated products; not elsewhere specified or included",10508,"Coral and Shells",2022,1,"Q1",1,"January",202201,11796.37
+1,"Animal Products",105,"Animal originated products; not elsewhere specified or included",10510,"Pharmaceutical Animal Products",2022,1,"Q1",1,"January",202201,95.03
+1,"Animal Products",105,"Animal originated products; not elsewhere specified or included",10511,"Other Inedible Animal Products",2022,1,"Q1",1,"January",202201,2471224.66
+2,"Vegetable Products",206,"Trees and other live plants",20601,"Bulbs and Roots",2022,1,"Q1",1,"January",202201,41430.920000000006
+2,"Vegetable Products",206,"Trees and other live plants",20602,"Other Live Plants",2022,1,"Q1",1,"January",202201,105752.78
+2,"Vegetable Products",206,"Trees and other live plants",20603,"Cut Flowers",2022,1,"Q1",1,"January",202201,123686.42000000001
+2,"Vegetable Products",206,"Trees and other live plants",20604,"Foliage",2022,1,"Q1",1,"January",202201,31880.469999999998
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20701,"Potatoes",2022,1,"Q1",1,"January",202201,1395212.57
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20702,"Tomatoes",2022,1,"Q1",1,"January",202201,828679.1099999999
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20703,"Onions",2022,1,"Q1",1,"January",202201,415028.10000000003
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20704,"Cabbages",2022,1,"Q1",1,"January",202201,241997.47999999998
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20705,"Lettuce",2022,1,"Q1",1,"January",202201,25330.97
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20706,"Root Vegetables",2022,1,"Q1",1,"January",202201,323779.47
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20707,"Cucumbers",2022,1,"Q1",1,"January",202201,3185622.5100000007
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20708,"Legumes",2022,1,"Q1",1,"January",202201,11798.909999999998
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20709,"Other Vegetables",2022,1,"Q1",1,"January",202201,807396.6000000001
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20710,"Frozen Vegetables",2022,1,"Q1",1,"January",202201,641079.28
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20711,"Preserved Vegetables",2022,1,"Q1",1,"January",202201,225320.72999999998
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20712,"Dried Vegetables",2022,1,"Q1",1,"January",202201,326166.44999999995
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20713,"Dried Legumes",2022,1,"Q1",1,"January",202201,73451887.47999999
+2,"Vegetable Products",207,"Vegetables and certain roots and tubers; edible",20714,"Cassava",2022,1,"Q1",1,"January",202201,994.78
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20801,"Coconuts, Brazil Nuts, and Cashews",2022,1,"Q1",1,"January",202201,186002.4
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20802,"Other Nuts",2022,1,"Q1",1,"January",202201,342627.56999999995
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20803,"Bananas",2022,1,"Q1",1,"January",202201,3706250.6399999997
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20804,"Tropical Fruits",2022,1,"Q1",1,"January",202201,180158.71999999997
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20805,"Citrus",2022,1,"Q1",1,"January",202201,1678471.53
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20806,"Grapes",2022,1,"Q1",1,"January",202201,215059.44
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20807,"Melons",2022,1,"Q1",1,"January",202201,4301.500000000001
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20808,"Apples and Pears",2022,1,"Q1",1,"January",202201,686289.8300000001
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20809,"Pitted Fruits",2022,1,"Q1",1,"January",202201,958.37
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20810,"Other Fruits",2022,1,"Q1",1,"January",202201,252477.69999999998
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20811,"Frozen Fruits and Nuts",2022,1,"Q1",1,"January",202201,1333850.5699999998
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20812,"Preserved Fruits and Nuts",2022,1,"Q1",1,"January",202201,157.28
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20813,"Dried Fruits",2022,1,"Q1",1,"January",202201,341353.35
+2,"Vegetable Products",208,"Fruit and nuts, edible; peel of citrus fruit or melons",20814,"Citrus and Melon Peels",2022,1,"Q1",1,"January",202201,561.65
+2,"Vegetable Products",209,"Coffee, tea, mate and spices",20901,"Coffee",2022,1,"Q1",1,"January",202201,4010837.809999999
+2,"Vegetable Products",209,"Coffee, tea, mate and spices",20902,"Tea",2022,1,"Q1",1,"January",202201,6409111
+2,"Vegetable Products",209,"Coffee, tea, mate and spices",20903,"Maté",2022,1,"Q1",1,"January",202201,45771.729999999996
+2,"Vegetable Products",209,"Coffee, tea, mate and spices",20904,"Pepper",2022,1,"Q1",1,"January",202201,388805.05999999994
+2,"Vegetable Products",209,"Coffee, tea, mate and spices",20905,"Vanilla",2022,1,"Q1",1,"January",202201,2117.7
+2,"Vegetable Products",209,"Coffee, tea, mate and spices",20906,"Cinnamon",2022,1,"Q1",1,"January",202201,28248.04
+2,"Vegetable Products",209,"Coffee, tea, mate and spices",20907,"Cloves",2022,1,"Q1",1,"January",202201,16380.789999999997
+2,"Vegetable Products",209,"Coffee, tea, mate and spices",20908,"Nutmeg, mace and cardamons",2022,1,"Q1",1,"January",202201,30542.270000000004
+2,"Vegetable Products",209,"Coffee, tea, mate and spices",20909,"Spice Seeds",2022,1,"Q1",1,"January",202201,3197148.579999999
+2,"Vegetable Products",209,"Coffee, tea, mate and spices",20910,"Spices",2022,1,"Q1",1,"January",202201,346523.1000000001
+2,"Vegetable Products",210,"Cereals",21001,"Wheat",2022,1,"Q1",1,"January",202201,455038610.9799999
+2,"Vegetable Products",210,"Cereals",21002,"Rye",2022,1,"Q1",1,"January",202201,6976879.46
+2,"Vegetable Products",210,"Cereals",21003,"Barley",2022,1,"Q1",1,"January",202201,28611320.75
+2,"Vegetable Products",210,"Cereals",21004,"Oats",2022,1,"Q1",1,"January",202201,945857.2000000002
+2,"Vegetable Products",210,"Cereals",21005,"Corn",2022,1,"Q1",1,"January",202201,76814874.6
+2,"Vegetable Products",210,"Cereals",21006,"Rice",2022,1,"Q1",1,"January",202201,4402605.200000001
+2,"Vegetable Products",210,"Cereals",21007,"Sorghum",2022,1,"Q1",1,"January",202201,1795179.8800000001
+2,"Vegetable Products",210,"Cereals",21008,"Buckwheat",2022,1,"Q1",1,"January",202201,7826998.090000001
+2,"Vegetable Products",211,"Products of the milling industry; malt, starches, inulin, wheat gluten",21101,"Wheat Flours",2022,1,"Q1",1,"January",202201,14207595.969999991
+2,"Vegetable Products",211,"Products of the milling industry; malt, starches, inulin, wheat gluten",21102,"Cereal Flours",2022,1,"Q1",1,"January",202201,408599.63999999996
+2,"Vegetable Products",211,"Products of the milling industry; malt, starches, inulin, wheat gluten",21103,"Cereal Meal and Pellets",2022,1,"Q1",1,"January",202201,1441524.9599999997
+2,"Vegetable Products",211,"Products of the milling industry; malt, starches, inulin, wheat gluten",21104,"Processed Cereals",2022,1,"Q1",1,"January",202201,9771154.440000001
+2,"Vegetable Products",211,"Products of the milling industry; malt, starches, inulin, wheat gluten",21105,"Potato Flours",2022,1,"Q1",1,"January",202201,143048.94999999998
+2,"Vegetable Products",211,"Products of the milling industry; malt, starches, inulin, wheat gluten",21106,"Legume Flours",2022,1,"Q1",1,"January",202201,46830.229999999996
+2,"Vegetable Products",211,"Products of the milling industry; malt, starches, inulin, wheat gluten",21107,"Malt",2022,1,"Q1",1,"January",202201,6169313.16
+2,"Vegetable Products",211,"Products of the milling industry; malt, starches, inulin, wheat gluten",21108,"Starches",2022,1,"Q1",1,"January",202201,1840802.6999999997
+2,"Vegetable Products",211,"Products of the milling industry; malt, starches, inulin, wheat gluten",21109,"Wheat Gluten",2022,1,"Q1",1,"January",202201,3776597.18
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21201,"Soybeans",2022,1,"Q1",1,"January",202201,25124659.200000003
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21202,"Ground Nuts",2022,1,"Q1",1,"January",202201,160554.59000000005
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21204,"Linseed",2022,1,"Q1",1,"January",202201,40219612.70999997
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21205,"Rapeseed",2022,1,"Q1",1,"January",202201,25438484.06
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21206,"Sunflower Seeds",2022,1,"Q1",1,"January",202201,10346073.97
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21207,"Other Oily Seeds",2022,1,"Q1",1,"January",202201,7230657.95
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21208,"Oil Seed Flower",2022,1,"Q1",1,"January",202201,88768.61000000002
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21209,"Sowing Seeds",2022,1,"Q1",1,"January",202201,1239036.8499999999
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21210,"Hops",2022,1,"Q1",1,"January",202201,37018.59
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21211,"Perfume Plants",2022,1,"Q1",1,"January",202201,880169.3999999999
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21212,"Locust beans, seaweed, sugar beet, cane, for food",2022,1,"Q1",1,"January",202201,183904.27999999997
+2,"Vegetable Products",212,"Oil seeds and oleaginous fruits",21214,"Forage Crops",2022,1,"Q1",1,"January",202201,123570.48
+2,"Vegetable Products",213,"Lac; gums, resins and other vegetable saps and extracts",21301,"Insect Resins",2022,1,"Q1",1,"January",202201,77767.12
+2,"Vegetable Products",213,"Lac; gums, resins and other vegetable saps and extracts",21302,"Vegetable Saps",2022,1,"Q1",1,"January",202201,446985.32
+2,"Vegetable Products",214,"Vegetable plaiting materials",21401,"Vegetable Plaiting Materials",2022,1,"Q1",1,"January",202201,35210.58
+2,"Vegetable Products",214,"Vegetable plaiting materials",21404,"Other Vegetable Products",2022,1,"Q1",1,"January",202201,978233.27
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31502,"Bovine, Sheep, and Goat Fat",2022,1,"Q1",1,"January",202201,136705.43
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31504,"Fish Oil",2022,1,"Q1",1,"January",202201,366564.21
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31505,"Wool Grease",2022,1,"Q1",1,"January",202201,1684.67
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31506,"Other Animal Fats",2022,1,"Q1",1,"January",202201,28.51
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31507,"Soybean Oil",2022,1,"Q1",1,"January",202201,79585425.92999996
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31508,"Ground Nut Oil",2022,1,"Q1",1,"January",202201,183
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31509,"Pure Olive Oil",2022,1,"Q1",1,"January",202201,17578.73
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31511,"Palm Oil",2022,1,"Q1",1,"January",202201,1839766.35
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31512,"Seed Oils",2022,1,"Q1",1,"January",202201,144107412.61999997
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31513,"Coconut Oil",2022,1,"Q1",1,"January",202201,633690.85
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31514,"Rapeseed Oil",2022,1,"Q1",1,"January",202201,102774551.18
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31515,"Other Pure Vegetable Oils",2022,1,"Q1",1,"January",202201,3594284.289999999
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31516,"Other Vegetable Oils",2022,1,"Q1",1,"January",202201,11740115.26
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31517,"Margarine",2022,1,"Q1",1,"January",202201,54858170.07999999
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31518,"Inedible Fats and Oils",2022,1,"Q1",1,"January",202201,10971652.51
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31520,"Glycerol",2022,1,"Q1",1,"January",202201,7236.589999999999
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31521,"Waxes",2022,1,"Q1",1,"January",202201,14880.58
+3,"Animal and Vegetable Bi-Products",315,"Animal or vegetable fats and oils and their cleavage products",31522,"Fat and Oil Residues",2022,1,"Q1",1,"January",202201,152382.01
+4,"Foodstuffs",416,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",41601,"Sausages",2022,1,"Q1",1,"January",202201,7745995.989999999
+4,"Foodstuffs",416,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",41602,"Other Prepared Meat",2022,1,"Q1",1,"January",202201,5919049.919999999
+4,"Foodstuffs",416,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",41603,"Animal Extracts",2022,1,"Q1",1,"January",202201,101.59
+4,"Foodstuffs",416,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",41604,"Processed Fish",2022,1,"Q1",1,"January",202201,4932869.01
+4,"Foodstuffs",416,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates",41605,"Processed Crustaceans",2022,1,"Q1",1,"January",202201,874591.89
+4,"Foodstuffs",417,"Sugars and sugar confectionery",41701,"Raw Sugar",2022,1,"Q1",1,"January",202201,14707879.830000002
+4,"Foodstuffs",417,"Sugars and sugar confectionery",41702,"Other Sugars",2022,1,"Q1",1,"January",202201,2239600.29
+4,"Foodstuffs",417,"Sugars and sugar confectionery",41703,"Molasses",2022,1,"Q1",1,"January",202201,6820550.68
+4,"Foodstuffs",417,"Sugars and sugar confectionery",41704,"Confectionery Sugar",2022,1,"Q1",1,"January",202201,11200560.879999988
+4,"Foodstuffs",418,"Cocoa and cocoa preparations",41801,"Cocoa Beans",2022,1,"Q1",1,"January",202201,70.21
+4,"Foodstuffs",418,"Cocoa and cocoa preparations",41802,"Cocoa Shells",2022,1,"Q1",1,"January",202201,12828.82
+4,"Foodstuffs",418,"Cocoa and cocoa preparations",41803,"Cocoa Paste",2022,1,"Q1",1,"January",202201,226216.90999999997
+4,"Foodstuffs",418,"Cocoa and cocoa preparations",41804,"Cocoa Butter",2022,1,"Q1",1,"January",202201,61474.859999999986
+4,"Foodstuffs",418,"Cocoa and cocoa preparations",41805,"Cocoa Powder",2022,1,"Q1",1,"January",202201,494956.3599999999
+4,"Foodstuffs",418,"Cocoa and cocoa preparations",41806,"Chocolate",2022,1,"Q1",1,"January",202201,47883216.19999999
+4,"Foodstuffs",419,"Preparations of cereals, flour, starch or milk; pastrycooks' products",41901,"Malt Extract",2022,1,"Q1",1,"January",202201,12753688.27
+4,"Foodstuffs",419,"Preparations of cereals, flour, starch or milk; pastrycooks' products",41902,"Pasta",2022,1,"Q1",1,"January",202201,7571643.769999999
+4,"Foodstuffs",419,"Preparations of cereals, flour, starch or milk; pastrycooks' products",41903,"Tapioca",2022,1,"Q1",1,"January",202201,1668.12
+4,"Foodstuffs",419,"Preparations of cereals, flour, starch or milk; pastrycooks' products",41904,"Prepared Cereals",2022,1,"Q1",1,"January",202201,2209128.7400000007
+4,"Foodstuffs",419,"Preparations of cereals, flour, starch or milk; pastrycooks' products",41905,"Baked Goods",2022,1,"Q1",1,"January",202201,35623202.7
+4,"Foodstuffs",420,"Preparations of vegetables, fruit, nuts or other parts of plants",42001,"Pickled Foods",2022,1,"Q1",1,"January",202201,879521.7300000001
+4,"Foodstuffs",420,"Preparations of vegetables, fruit, nuts or other parts of plants",42002,"Processed Tomatoes",2022,1,"Q1",1,"January",202201,951069.6200000002
+4,"Foodstuffs",420,"Preparations of vegetables, fruit, nuts or other parts of plants",42003,"Processed Mushrooms",2022,1,"Q1",1,"January",202201,171429.13
+4,"Foodstuffs",420,"Preparations of vegetables, fruit, nuts or other parts of plants",42004,"Other Frozen Vegetables",2022,1,"Q1",1,"January",202201,502487.98
+4,"Foodstuffs",420,"Preparations of vegetables, fruit, nuts or other parts of plants",42005,"Other Processed Vegetables",2022,1,"Q1",1,"January",202201,13066942.330000004
+4,"Foodstuffs",420,"Preparations of vegetables, fruit, nuts or other parts of plants",42006,"Sugar Preserved Foods",2022,1,"Q1",1,"January",202201,55630.81999999999
+4,"Foodstuffs",420,"Preparations of vegetables, fruit, nuts or other parts of plants",42007,"Jams",2022,1,"Q1",1,"January",202201,1911328.0400000005
+4,"Foodstuffs",420,"Preparations of vegetables, fruit, nuts or other parts of plants",42008,"Other Processed Fruits and Nuts",2022,1,"Q1",1,"January",202201,15217780.97
+4,"Foodstuffs",420,"Preparations of vegetables, fruit, nuts or other parts of plants",42009,"Fruit Juice",2022,1,"Q1",1,"January",202201,3222905.92
+4,"Foodstuffs",421,"Miscellaneous edible preparations",42101,"Coffee and Tea Extracts",2022,1,"Q1",1,"January",202201,11569168.099999994
+4,"Foodstuffs",421,"Miscellaneous edible preparations",42102,"Yeast",2022,1,"Q1",1,"January",202201,7141849.8
+4,"Foodstuffs",421,"Miscellaneous edible preparations",42103,"Sauces and Seasonings",2022,1,"Q1",1,"January",202201,12367676.739999996
+4,"Foodstuffs",421,"Miscellaneous edible preparations",42104,"Soups and Broths",2022,1,"Q1",1,"January",202201,682754.5300000001
+4,"Foodstuffs",421,"Miscellaneous edible preparations",42105,"Ice Cream",2022,1,"Q1",1,"January",202201,3727928.5800000005
+4,"Foodstuffs",421,"Miscellaneous edible preparations",42106,"Other Edible Preparations",2022,1,"Q1",1,"January",202201,25063841.68
+4,"Foodstuffs",422,"Beverages, spirits and vinegar",42201,"Water",2022,1,"Q1",1,"January",202201,1358998.5500000003
+4,"Foodstuffs",422,"Beverages, spirits and vinegar",42202,"Flavored Water",2022,1,"Q1",1,"January",202201,18368125.03999999
+4,"Foodstuffs",422,"Beverages, spirits and vinegar",42203,"Beer",2022,1,"Q1",1,"January",202201,6495003.579999998
+4,"Foodstuffs",422,"Beverages, spirits and vinegar",42204,"Wine",2022,1,"Q1",1,"January",202201,434675.53
+4,"Foodstuffs",422,"Beverages, spirits and vinegar",42206,"Other Fermented Beverages",2022,1,"Q1",1,"January",202201,683121.3599999999
+4,"Foodstuffs",422,"Beverages, spirits and vinegar",42207,"Alcohol > 80% ABV",2022,1,"Q1",1,"January",202201,4305119.54
+4,"Foodstuffs",422,"Beverages, spirits and vinegar",42208,"Hard Liquor",2022,1,"Q1",1,"January",202201,10351508.39
+4,"Foodstuffs",422,"Beverages, spirits and vinegar",42209,"Vinegar",2022,1,"Q1",1,"January",202201,63079.060000000005
+4,"Foodstuffs",423,"Food industries, residues and wastes thereof; prepared animal fodder",42301,"Animal Meal and Pellets",2022,1,"Q1",1,"January",202201,14258117.900000002
+4,"Foodstuffs",423,"Food industries, residues and wastes thereof; prepared animal fodder",42302,"Bran",2022,1,"Q1",1,"January",202201,23113455.61
+4,"Foodstuffs",423,"Food industries, residues and wastes thereof; prepared animal fodder",42303,"Starch Residue",2022,1,"Q1",1,"January",202201,33062662.23
+4,"Foodstuffs",423,"Food industries, residues and wastes thereof; prepared animal fodder",42304,"Soybean Meal",2022,1,"Q1",1,"January",202201,52004035.940000005
+4,"Foodstuffs",423,"Food industries, residues and wastes thereof; prepared animal fodder",42306,"Other Vegetable Residues",2022,1,"Q1",1,"January",202201,67139200.47000001
+4,"Foodstuffs",423,"Food industries, residues and wastes thereof; prepared animal fodder",42307,"Wine Lees",2022,1,"Q1",1,"January",202201,5.43
+4,"Foodstuffs",423,"Food industries, residues and wastes thereof; prepared animal fodder",42308,"Other Vegetable Residues and Waste",2022,1,"Q1",1,"January",202201,936603.88
+4,"Foodstuffs",423,"Food industries, residues and wastes thereof; prepared animal fodder",42309,"Animal Food",2022,1,"Q1",1,"January",202201,17506113.060000002
+4,"Foodstuffs",424,"Tobacco and manufactured tobacco substitutes",42401,"Raw Tobacco",2022,1,"Q1",1,"January",202201,611529.8799999999
+4,"Foodstuffs",424,"Tobacco and manufactured tobacco substitutes",42402,"Rolled Tobacco",2022,1,"Q1",1,"January",202201,6977234.329999999
+4,"Foodstuffs",424,"Tobacco and manufactured tobacco substitutes",42403,"Processed Tobacco",2022,1,"Q1",1,"January",202201,11450339.879999999
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52501,"Salt",2022,1,"Q1",1,"January",202201,990387.9899999998
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52502,"Iron Pyrites",2022,1,"Q1",1,"January",202201,274410.42
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52503,"Sulphur",2022,1,"Q1",1,"January",202201,23164043.57
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52504,"Graphite",2022,1,"Q1",1,"January",202201,144483.19
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52505,"Sand",2022,1,"Q1",1,"January",202201,468728.19999999995
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52506,"Quartz",2022,1,"Q1",1,"January",202201,775287.37
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52507,"Kaolin",2022,1,"Q1",1,"January",202201,33050.85
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52508,"Clays",2022,1,"Q1",1,"January",202201,526149.72
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52509,"Chalk",2022,1,"Q1",1,"January",202201,106350.66
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52510,"Calcium Phosphates",2022,1,"Q1",1,"January",202201,30742524.650000002
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52511,"Barium Sulphate",2022,1,"Q1",1,"January",202201,62878.899999999994
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52512,"Siliceous Fossil Meals",2022,1,"Q1",1,"January",202201,169220.25999999998
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52513,"Pumice",2022,1,"Q1",1,"January",202201,120852.41000000002
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52514,"Slate",2022,1,"Q1",1,"January",202201,14076.65
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52515,"Marble, Travertine and Alabaster",2022,1,"Q1",1,"January",202201,55209.189999999995
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52516,"Granite",2022,1,"Q1",1,"January",202201,288405.61
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52517,"Gravel and Crushed Stone",2022,1,"Q1",1,"January",202201,767679.1
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52518,"Dolomite",2022,1,"Q1",1,"January",202201,505907.24999999994
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52519,"Magnesium Carbonate",2022,1,"Q1",1,"January",202201,8481341.77
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52520,"Gypsum",2022,1,"Q1",1,"January",202201,739617.5
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52521,"Limestone",2022,1,"Q1",1,"January",202201,714595.13
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52522,"Quicklime",2022,1,"Q1",1,"January",202201,1636690.37
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52523,"Cement",2022,1,"Q1",1,"January",202201,3131594.16
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52524,"Asbestos",2022,1,"Q1",1,"January",202201,11184533.2
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52525,"Mica",2022,1,"Q1",1,"January",202201,142235.12
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52526,"Soapstone",2022,1,"Q1",1,"January",202201,27391.989999999994
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52528,"Borax",2022,1,"Q1",1,"January",202201,264900
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52529,"Feldspar",2022,1,"Q1",1,"January",202201,732196.5499999999
+5,"Mineral Products",525,"Salt; sulphur; earths, stone; plastering materials, lime and cement",52530,"Other Mineral",2022,1,"Q1",1,"January",202201,4320306.159999999
+5,"Mineral Products",526,"Ores, slag and ash",52601,"Iron Ore",2022,1,"Q1",1,"January",202201,208973983.73
+5,"Mineral Products",526,"Ores, slag and ash",52602,"Manganese Ore",2022,1,"Q1",1,"January",202201,4984.719999999999
+5,"Mineral Products",526,"Ores, slag and ash",52603,"Copper Ore",2022,1,"Q1",1,"January",202201,10851669.1
+5,"Mineral Products",526,"Ores, slag and ash",52604,"Nickel Ore",2022,1,"Q1",1,"January",202201,7261764.84
+5,"Mineral Products",526,"Ores, slag and ash",52606,"Aluminium Ore",2022,1,"Q1",1,"January",202201,11842.24
+5,"Mineral Products",526,"Ores, slag and ash",52607,"Lead Ore",2022,1,"Q1",1,"January",202201,18738103.46
+5,"Mineral Products",526,"Ores, slag and ash",52608,"Zinc Ore",2022,1,"Q1",1,"January",202201,21885115.060000002
+5,"Mineral Products",526,"Ores, slag and ash",52611,"Tungsten Ore",2022,1,"Q1",1,"January",202201,1029243.75
+5,"Mineral Products",526,"Ores, slag and ash",52614,"Titanium Ore",2022,1,"Q1",1,"January",202201,106354.77
+5,"Mineral Products",526,"Ores, slag and ash",52615,"Niobium, Tantalum, Vanadium and Zirconium Ore",2022,1,"Q1",1,"January",202201,2213010.4
+5,"Mineral Products",526,"Ores, slag and ash",52616,"Precious Metal Ore",2022,1,"Q1",1,"January",202201,61492150.59
+5,"Mineral Products",526,"Ores, slag and ash",52617,"Other Ores",2022,1,"Q1",1,"January",202201,8158061.63
+5,"Mineral Products",526,"Ores, slag and ash",52618,"Granulated Slag",2022,1,"Q1",1,"January",202201,88189.83
+5,"Mineral Products",526,"Ores, slag and ash",52619,"Slag Dross",2022,1,"Q1",1,"January",202201,201006.05
+5,"Mineral Products",526,"Ores, slag and ash",52620,"Non-Iron and Steel Slag, Ash and Residues",2022,1,"Q1",1,"January",202201,107117.43000000001
+5,"Mineral Products",526,"Ores, slag and ash",52621,"Other Slag and Ash",2022,1,"Q1",1,"January",202201,35926
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52701,"Coal Briquettes",2022,1,"Q1",1,"January",202201,1564213569.3600001
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52702,"Lignite",2022,1,"Q1",1,"January",202201,1315633.25
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52703,"Peat",2022,1,"Q1",1,"January",202201,3011445.3300000005
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52704,"Coke",2022,1,"Q1",1,"January",202201,103903188.75999998
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52706,"Tar",2022,1,"Q1",1,"January",202201,2451828.1999999997
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52707,"Coal Tar Oil",2022,1,"Q1",1,"January",202201,6303259.830000001
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52708,"Pitch Coke",2022,1,"Q1",1,"January",202201,1128789.13
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52709,"Crude Petroleum",2022,1,"Q1",1,"January",202201,10115241567.36
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52710,"Refined Petroleum",2022,1,"Q1",1,"January",202201,6142563255.730001
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52711,"Petroleum Gas",2022,1,"Q1",1,"January",202201,1412031695.4199998
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52712,"Petroleum Jelly",2022,1,"Q1",1,"January",202201,13989147.690000001
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52713,"Petroleum Coke",2022,1,"Q1",1,"January",202201,34331614.09
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52715,"Asphalt Mixtures",2022,1,"Q1",1,"January",202201,30146971.159999996
+5,"Mineral Products",527,"Mineral fuels, mineral oils and products of their distillation",52716,"Electricity",2022,1,"Q1",1,"January",202201,179206214.82
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62801,"Halogens",2022,1,"Q1",1,"January",202201,160491.53
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62803,"Carbon",2022,1,"Q1",1,"January",202201,75654269.08000001
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62804,"Hydrogen",2022,1,"Q1",1,"January",202201,12439166.41
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62805,"Alkaline Metals",2022,1,"Q1",1,"January",202201,1675857.02
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62806,"Hydrochloric Acid",2022,1,"Q1",1,"January",202201,162517.59999999998
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62807,"Sulfuric Acid",2022,1,"Q1",1,"January",202201,2030119.27
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62808,"Nitric Acids",2022,1,"Q1",1,"January",202201,281776.18000000005
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62809,"Phosphoric Acid",2022,1,"Q1",1,"January",202201,104715.93999999999
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62810,"Boron",2022,1,"Q1",1,"January",202201,4392632.07
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62811,"Other Inorganic Acids",2022,1,"Q1",1,"January",202201,2765571.3200000003
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62812,"Halides",2022,1,"Q1",1,"January",202201,604004.39
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62813,"Nonmetal Sulfides",2022,1,"Q1",1,"January",202201,1200047.2700000003
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62814,"Ammonia",2022,1,"Q1",1,"January",202201,197859075.47999996
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62815,"Sodium or Potassium Peroxides",2022,1,"Q1",1,"January",202201,15797260.94
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62816,"Magnesium Hydroxide and Peroxide",2022,1,"Q1",1,"January",202201,2208402.4299999997
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62817,"Zinc Oxide and Peroxide",2022,1,"Q1",1,"January",202201,2858291.93
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62818,"Aluminium Oxide",2022,1,"Q1",1,"January",202201,3348423.2
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62819,"Chromium Oxides and Hydroxides",2022,1,"Q1",1,"January",202201,2592696.48
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62821,"Iron Oxides and Hydroxides",2022,1,"Q1",1,"January",202201,26589.7
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62823,"Titanium Oxides",2022,1,"Q1",1,"January",202201,27407.95
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62824,"Lead Oxides",2022,1,"Q1",1,"January",202201,161508.15
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62825,"Inorganic Salts",2022,1,"Q1",1,"January",202201,22068506.06
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62826,"Fluorides",2022,1,"Q1",1,"January",202201,309254.24
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62827,"Chlorides",2022,1,"Q1",1,"January",202201,1460695.81
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62828,"Hypochlorites",2022,1,"Q1",1,"January",202201,327666.37
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62829,"Chlorates and Perchlorates",2022,1,"Q1",1,"January",202201,293.93
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62830,"Sulfides",2022,1,"Q1",1,"January",202201,76716.78
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62832,"Sulfites",2022,1,"Q1",1,"January",202201,184613.77999999997
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62833,"Sulfates",2022,1,"Q1",1,"January",202201,12760051.029999997
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62834,"Nitrites and Nitrates",2022,1,"Q1",1,"January",202201,2225586.95
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62835,"Phosphinates and Phosphonates",2022,1,"Q1",1,"January",202201,25702631.2
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62836,"Carbonates",2022,1,"Q1",1,"January",202201,33788276.01
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62837,"Cyanides",2022,1,"Q1",1,"January",202201,758606.65
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62839,"Silicates",2022,1,"Q1",1,"January",202201,246096.59999999998
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62840,"Borates",2022,1,"Q1",1,"January",202201,238568.77000000002
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62841,"Oxometallic or Peroxometallic Acid Salts",2022,1,"Q1",1,"January",202201,322150.4
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62842,"Other Inorganic Acids Salts",2022,1,"Q1",1,"January",202201,59240.21
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62843,"Precious Metal Compounds",2022,1,"Q1",1,"January",202201,54237.899999999994
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62846,"Rare-Earth Metal Compounds",2022,1,"Q1",1,"January",202201,3088873.52
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62847,"Hydrogen peroxide",2022,1,"Q1",1,"January",202201,574049.8500000001
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62849,"Carbides",2022,1,"Q1",1,"January",202201,4621416
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62850,"Hydrides and other anions",2022,1,"Q1",1,"January",202201,70866.81
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62852,"Compounds, inorganic or organic, of mercury, excluding amalgams",2022,1,"Q1",1,"January",202201,8550.189999999999
+6,"Chemical Products",628,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",62853,"Other inorganic compounds",2022,1,"Q1",1,"January",202201,21152.519999999993
+6,"Chemical Products",629,"Organic chemicals",62901,"Acyclic Hydrocarbons",2022,1,"Q1",1,"January",202201,41594885.00999999
+6,"Chemical Products",629,"Organic chemicals",62902,"Cyclic Hydrocarbons",2022,1,"Q1",1,"January",202201,14600368.440000001
+6,"Chemical Products",629,"Organic chemicals",62903,"Halogenated Hydrocarbons",2022,1,"Q1",1,"January",202201,16500632.67
+6,"Chemical Products",629,"Organic chemicals",62904,"Sulfonated, Nitrated or Nitrosated Hydrocarbons",2022,1,"Q1",1,"January",202201,800681.32
+6,"Chemical Products",629,"Organic chemicals",62905,"Acyclic Alcohols",2022,1,"Q1",1,"January",202201,99155804.05
+6,"Chemical Products",629,"Organic chemicals",62906,"Cyclic Alcohols",2022,1,"Q1",1,"January",202201,18892.41
+6,"Chemical Products",629,"Organic chemicals",62907,"Phenols",2022,1,"Q1",1,"January",202201,7419106.739999998
+6,"Chemical Products",629,"Organic chemicals",62908,"Phenol Derivatives",2022,1,"Q1",1,"January",202201,13720
+6,"Chemical Products",629,"Organic chemicals",62909,"Ethers",2022,1,"Q1",1,"January",202201,15209769.73
+6,"Chemical Products",629,"Organic chemicals",62910,"Epoxides",2022,1,"Q1",1,"January",202201,1209001.52
+6,"Chemical Products",629,"Organic chemicals",62911,"Acetals and Hemiacetals",2022,1,"Q1",1,"January",202201,3539.23
+6,"Chemical Products",629,"Organic chemicals",62912,"Aldehydes",2022,1,"Q1",1,"January",202201,694418.3400000002
+6,"Chemical Products",629,"Organic chemicals",62913,"Aldehyde Derivatives",2022,1,"Q1",1,"January",202201,3813.3
+6,"Chemical Products",629,"Organic chemicals",62914,"Ketones and Quinones",2022,1,"Q1",1,"January",202201,1522144.13
+6,"Chemical Products",629,"Organic chemicals",62915,"Saturated Acyclic Monocarboxylic Acids",2022,1,"Q1",1,"January",202201,9182588.36
+6,"Chemical Products",629,"Organic chemicals",62916,"Unsaturated Acyclic Monocarboxylic Acids",2022,1,"Q1",1,"January",202201,4049776.5100000002
+6,"Chemical Products",629,"Organic chemicals",62917,"Polycarboxylic Acids",2022,1,"Q1",1,"January",202201,11373270.1
+6,"Chemical Products",629,"Organic chemicals",62918,"Carboxylic Acids",2022,1,"Q1",1,"January",202201,816649.21
+6,"Chemical Products",629,"Organic chemicals",62919,"Phosphoric Esters and Salts",2022,1,"Q1",1,"January",202201,120.76
+6,"Chemical Products",629,"Organic chemicals",62920,"Other Esters",2022,1,"Q1",1,"January",202201,3479.91
+6,"Chemical Products",629,"Organic chemicals",62921,"Amine Compounds",2022,1,"Q1",1,"January",202201,1839316.25
+6,"Chemical Products",629,"Organic chemicals",62922,"Oxygen Amino Compounds",2022,1,"Q1",1,"January",202201,3034308.749999999
+6,"Chemical Products",629,"Organic chemicals",62923,"Quaternary Ammonium Salts and Hydroxides",2022,1,"Q1",1,"January",202201,1461877.6500000001
+6,"Chemical Products",629,"Organic chemicals",62924,"Carboxyamide Compounds",2022,1,"Q1",1,"January",202201,1096885.88
+6,"Chemical Products",629,"Organic chemicals",62925,"Carboxyimide Compounds",2022,1,"Q1",1,"January",202201,584287.8600000001
+6,"Chemical Products",629,"Organic chemicals",62926,"Nitrile Compounds",2022,1,"Q1",1,"January",202201,2837622.51
+6,"Chemical Products",629,"Organic chemicals",62927,"Diazo, Azo or Aoxy Compounds",2022,1,"Q1",1,"January",202201,56291.56
+6,"Chemical Products",629,"Organic chemicals",62928,"Hydrazine or Hydroxylamine Derivatives",2022,1,"Q1",1,"January",202201,32529.699999999997
+6,"Chemical Products",629,"Organic chemicals",62929,"Other Nitrogen Compounds",2022,1,"Q1",1,"January",202201,987748.4199999999
+6,"Chemical Products",629,"Organic chemicals",62930,"Organo-Sulfur Compounds",2022,1,"Q1",1,"January",202201,4340330.890000001
+6,"Chemical Products",629,"Organic chemicals",62931,"Other Organo-Inorganic Compounds",2022,1,"Q1",1,"January",202201,892788.35
+6,"Chemical Products",629,"Organic chemicals",62932,"Oxygen Heterocyclic Compounds",2022,1,"Q1",1,"January",202201,228997.09999999998
+6,"Chemical Products",629,"Organic chemicals",62933,"Nitrogen Heterocyclic Compounds",2022,1,"Q1",1,"January",202201,22860474.39
+6,"Chemical Products",629,"Organic chemicals",62934,"Nucleic Acids",2022,1,"Q1",1,"January",202201,815808.44
+6,"Chemical Products",629,"Organic chemicals",62935,"Sulfonamides",2022,1,"Q1",1,"January",202201,141629.02000000002
+6,"Chemical Products",629,"Organic chemicals",62936,"Vitamins",2022,1,"Q1",1,"January",202201,502984.1400000001
+6,"Chemical Products",629,"Organic chemicals",62937,"Hormones",2022,1,"Q1",1,"January",202201,2648.68
+6,"Chemical Products",629,"Organic chemicals",62938,"Glycosides",2022,1,"Q1",1,"January",202201,5801.8099999999995
+6,"Chemical Products",629,"Organic chemicals",62939,"Vegetable Alkaloids",2022,1,"Q1",1,"January",202201,579.25
+6,"Chemical Products",629,"Organic chemicals",62940,"Chemically Pure Sugars",2022,1,"Q1",1,"January",202201,47414.56
+6,"Chemical Products",629,"Organic chemicals",62941,"Antibiotics",2022,1,"Q1",1,"January",202201,302850.93
+6,"Chemical Products",629,"Organic chemicals",62942,"Other Organic Compounds",2022,1,"Q1",1,"January",202201,198492.85
+6,"Chemical Products",630,"Pharmaceutical products",63001,"Glands and Other Organs",2022,1,"Q1",1,"January",202201,301165.98
+6,"Chemical Products",630,"Pharmaceutical products",63002,"Blood, antisera, vaccines, toxins and cultures",2022,1,"Q1",1,"January",202201,5821008.68
+6,"Chemical Products",630,"Pharmaceutical products",63003,"Unpackaged Medicaments",2022,1,"Q1",1,"January",202201,564344.1499999999
+6,"Chemical Products",630,"Pharmaceutical products",63004,"Packaged Medicaments",2022,1,"Q1",1,"January",202201,40117220.790000014
+6,"Chemical Products",630,"Pharmaceutical products",63005,"Bandages",2022,1,"Q1",1,"January",202201,674416.2899999999
+6,"Chemical Products",630,"Pharmaceutical products",63006,"Special Pharmaceuticals",2022,1,"Q1",1,"January",202201,1017699.2699999998
+6,"Chemical Products",631,"Fertilizers",63101,"Animal or Vegetable Fertilizers",2022,1,"Q1",1,"January",202201,122312.97999999998
+6,"Chemical Products",631,"Fertilizers",63102,"Nitrogenous Fertilizers",2022,1,"Q1",1,"January",202201,586320163.1700001
+6,"Chemical Products",631,"Fertilizers",63103,"Phosphatic Fertilizers",2022,1,"Q1",1,"January",202201,2996.27
+6,"Chemical Products",631,"Fertilizers",63104,"Potassic Fertilizers",2022,1,"Q1",1,"January",202201,460965867.9499999
+6,"Chemical Products",631,"Fertilizers",63105,"Mixed Mineral or Chemical Fertilizers",2022,1,"Q1",1,"January",202201,486736445.42
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63201,"Vegetable Tanning Extracts",2022,1,"Q1",1,"January",202201,36117.61
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63202,"Synthetic Tanning Extracts",2022,1,"Q1",1,"January",202201,14303.529999999999
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63203,"Vegetable or Animal Dyes",2022,1,"Q1",1,"January",202201,303295.3
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63204,"Synthetic Coloring Matter",2022,1,"Q1",1,"January",202201,878547.2300000001
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63205,"Lake Pigments",2022,1,"Q1",1,"January",202201,12466
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63206,"Other Coloring Matter",2022,1,"Q1",1,"January",202201,3478037.29
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63207,"Prepared Pigments",2022,1,"Q1",1,"January",202201,580880.4
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63208,"Nonaqueous Paints",2022,1,"Q1",1,"January",202201,5199554.73
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63209,"Aqueous Paints",2022,1,"Q1",1,"January",202201,1428284.8400000003
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63210,"Other Paints",2022,1,"Q1",1,"January",202201,124331.63999999998
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63211,"Prepared Paint Driers",2022,1,"Q1",1,"January",202201,4553.1900000000005
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63212,"Nonaqueous Pigments",2022,1,"Q1",1,"January",202201,292892.39999999997
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63213,"Artistry Paints",2022,1,"Q1",1,"January",202201,634263.99
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63214,"Glaziers Putty",2022,1,"Q1",1,"January",202201,4241512.299999999
+6,"Chemical Products",632,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",63215,"Ink",2022,1,"Q1",1,"January",202201,414430.05000000005
+6,"Chemical Products",633,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",63301,"Essential Oils",2022,1,"Q1",1,"January",202201,2078110.3099999998
+6,"Chemical Products",633,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",63302,"Scented Mixtures",2022,1,"Q1",1,"January",202201,2148885.16
+6,"Chemical Products",633,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",63303,"Perfumes",2022,1,"Q1",1,"January",202201,6423108.629999999
+6,"Chemical Products",633,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",63304,"Beauty Products",2022,1,"Q1",1,"January",202201,19385100.829999994
+6,"Chemical Products",633,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",63305,"Hair Products",2022,1,"Q1",1,"January",202201,19322306.59
+6,"Chemical Products",633,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",63306,"Dental Products",2022,1,"Q1",1,"January",202201,5072577.529999998
+6,"Chemical Products",633,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",63307,"Shaving Products",2022,1,"Q1",1,"January",202201,17147739.45
+6,"Chemical Products",634,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, "dental waxes" and dental preparations with a basis of plaster",63401,"Soap",2022,1,"Q1",1,"January",202201,9412264.029999997
+6,"Chemical Products",634,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, "dental waxes" and dental preparations with a basis of plaster",63402,"Cleaning Products",2022,1,"Q1",1,"January",202201,6082050.060000004
+6,"Chemical Products",634,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, "dental waxes" and dental preparations with a basis of plaster",63403,"Lubricating Products",2022,1,"Q1",1,"January",202201,2045417.1199999996
+6,"Chemical Products",634,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, "dental waxes" and dental preparations with a basis of plaster",63404,"Waxes",2022,1,"Q1",1,"January",202201,3161508.84
+6,"Chemical Products",634,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, "dental waxes" and dental preparations with a basis of plaster",63405,"Polishes and Creams",2022,1,"Q1",1,"January",202201,843006.4899999999
+6,"Chemical Products",634,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, "dental waxes" and dental preparations with a basis of plaster",63406,"Candles",2022,1,"Q1",1,"January",202201,343460.35
+6,"Chemical Products",634,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, "dental waxes" and dental preparations with a basis of plaster",63407,"Pastes and Waxes",2022,1,"Q1",1,"January",202201,332846.75999999995
+6,"Chemical Products",635,"Albuminoidal substances; modified starches; glues; enzymes",63501,"Casein",2022,1,"Q1",1,"January",202201,120.21
+6,"Chemical Products",635,"Albuminoidal substances; modified starches; glues; enzymes",63502,"Water Soluble Proteins",2022,1,"Q1",1,"January",202201,175272.23
+6,"Chemical Products",635,"Albuminoidal substances; modified starches; glues; enzymes",63503,"Gelatin",2022,1,"Q1",1,"January",202201,190011.59
+6,"Chemical Products",635,"Albuminoidal substances; modified starches; glues; enzymes",63504,"Peptones",2022,1,"Q1",1,"January",202201,900415.5599999999
+6,"Chemical Products",635,"Albuminoidal substances; modified starches; glues; enzymes",63505,"Dextrins",2022,1,"Q1",1,"January",202201,481211.06999999983
+6,"Chemical Products",635,"Albuminoidal substances; modified starches; glues; enzymes",63506,"Glues",2022,1,"Q1",1,"January",202201,1791400.8700000006
+6,"Chemical Products",635,"Albuminoidal substances; modified starches; glues; enzymes",63507,"Enzymes",2022,1,"Q1",1,"January",202201,378035.52999999997
+6,"Chemical Products",637,"Photographic or cinematographic goods",63701,"Photographic Plates",2022,1,"Q1",1,"January",202201,274075.48
+6,"Chemical Products",637,"Photographic or cinematographic goods",63702,"Photographic Film",2022,1,"Q1",1,"January",202201,48842.310000000005
+6,"Chemical Products",637,"Photographic or cinematographic goods",63703,"Photographic Paper",2022,1,"Q1",1,"January",202201,3501.9
+6,"Chemical Products",637,"Photographic or cinematographic goods",63705,"Developed Exposed Photographic Material",2022,1,"Q1",1,"January",202201,5.04
+6,"Chemical Products",637,"Photographic or cinematographic goods",63707,"Photographic Chemicals",2022,1,"Q1",1,"January",202201,319615.4800000001
+6,"Chemical Products",638,"Chemical products n.e.s.",63801,"Artificial Graphite",2022,1,"Q1",1,"January",202201,1498129.29
+6,"Chemical Products",638,"Chemical products n.e.s.",63802,"Activated Carbon",2022,1,"Q1",1,"January",202201,765107.9500000002
+6,"Chemical Products",638,"Chemical products n.e.s.",63803,"Tall Oil",2022,1,"Q1",1,"January",202201,2376277.89
+6,"Chemical Products",638,"Chemical products n.e.s.",63804,"Wood Pulp Lyes",2022,1,"Q1",1,"January",202201,3687172.9300000006
+6,"Chemical Products",638,"Chemical products n.e.s.",63805,"Turpentine",2022,1,"Q1",1,"January",202201,380712.16000000003
+6,"Chemical Products",638,"Chemical products n.e.s.",63806,"Rosin",2022,1,"Q1",1,"January",202201,441738.38999999996
+6,"Chemical Products",638,"Chemical products n.e.s.",63807,"Wood Tar, Oils and Pitch",2022,1,"Q1",1,"January",202201,186573.47000000003
+6,"Chemical Products",638,"Chemical products n.e.s.",63808,"Pesticides",2022,1,"Q1",1,"January",202201,5624399.110000001
+6,"Chemical Products",638,"Chemical products n.e.s.",63809,"Dyeing Finishing Agents",2022,1,"Q1",1,"January",202201,250617.17000000004
+6,"Chemical Products",638,"Chemical products n.e.s.",63810,"Metal Pickling Preparations",2022,1,"Q1",1,"January",202201,127807.50999999998
+6,"Chemical Products",638,"Chemical products n.e.s.",63811,"Antiknock",2022,1,"Q1",1,"January",202201,3514199.02
+6,"Chemical Products",638,"Chemical products n.e.s.",63812,"Prepared Rubber Accelerators",2022,1,"Q1",1,"January",202201,1159564.39
+6,"Chemical Products",638,"Chemical products n.e.s.",63813,"Fire Extinguishers Preparations",2022,1,"Q1",1,"January",202201,120687.12999999999
+6,"Chemical Products",638,"Chemical products n.e.s.",63814,"Organic Composite Solvents",2022,1,"Q1",1,"January",202201,5103126.88
+6,"Chemical Products",638,"Chemical products n.e.s.",63815,"Reaction and Catalytic Products",2022,1,"Q1",1,"January",202201,9996321.86
+6,"Chemical Products",638,"Chemical products n.e.s.",63816,"Refractory Cements",2022,1,"Q1",1,"January",202201,5288419.08
+6,"Chemical Products",638,"Chemical products n.e.s.",63817,"Alkylbenzenes and Alkylnaphthalenes",2022,1,"Q1",1,"January",202201,1990155.0399999998
+6,"Chemical Products",638,"Chemical products n.e.s.",63818,"Disc Chemicals for Electronics",2022,1,"Q1",1,"January",202201,86167.55
+6,"Chemical Products",638,"Chemical products n.e.s.",63819,"Hydraulic Brake Fluid",2022,1,"Q1",1,"January",202201,1640400.1400000004
+6,"Chemical Products",638,"Chemical products n.e.s.",63820,"Antifreeze",2022,1,"Q1",1,"January",202201,2946628.560000001
+6,"Chemical Products",638,"Chemical products n.e.s.",63821,"Micro-Organism Culture Preparations",2022,1,"Q1",1,"January",202201,99324.4
+6,"Chemical Products",638,"Chemical products n.e.s.",63823,"Industrial Fatty Acids, Oils and Alcohols",2022,1,"Q1",1,"January",202201,1811471.3299999998
+6,"Chemical Products",638,"Chemical products n.e.s.",63824,"Prepr binder for foundry",2022,1,"Q1",1,"January",202201,21323569.280000005
+6,"Chemical Products",638,"Chemical products n.e.s.",63825,"Residual products of the chemical or allied industries",2022,1,"Q1",1,"January",202201,2202144.41
+6,"Chemical Products",638,"Chemical products n.e.s.",63826,"Biodiesel and mixtures thereof",2022,1,"Q1",1,"January",202201,56687.729999999996
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73901,"Ethylene Polymers",2022,1,"Q1",1,"January",202201,140769289.73000002
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73902,"Propylene Polymers",2022,1,"Q1",1,"January",202201,116608723.46
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73903,"Styrene Polymers",2022,1,"Q1",1,"January",202201,13664533.809999999
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73904,"Vinyl Chloride Polymers",2022,1,"Q1",1,"January",202201,32075992.880000003
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73905,"Other Vinyl Polymers",2022,1,"Q1",1,"January",202201,1699398.48
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73906,"Acrylic Polymers",2022,1,"Q1",1,"January",202201,3846239.19
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73907,"Polyacetals",2022,1,"Q1",1,"January",202201,10445185.670000002
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73908,"Polyamides",2022,1,"Q1",1,"January",202201,13256134.57
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73909,"Amino-resins",2022,1,"Q1",1,"January",202201,13966341.260000002
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73910,"Silicone",2022,1,"Q1",1,"January",202201,713066.9499999998
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73911,"Petroleum Resins",2022,1,"Q1",1,"January",202201,809719.72
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73912,"Cellulose",2022,1,"Q1",1,"January",202201,853829.8600000001
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73913,"Natural Polymers",2022,1,"Q1",1,"January",202201,40468.66
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73914,"Polymer Ion-Exchangers",2022,1,"Q1",1,"January",202201,428394.43999999994
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73915,"Scrap Plastic",2022,1,"Q1",1,"January",202201,397168.86
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73916,"Monofilament",2022,1,"Q1",1,"January",202201,4993743.549999999
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73917,"Plastic Pipes",2022,1,"Q1",1,"January",202201,13047034.449999997
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73918,"Plastic Floor Coverings",2022,1,"Q1",1,"January",202201,4511260.15
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73919,"Self-adhesive Plastics",2022,1,"Q1",1,"January",202201,3143333.779999999
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73920,"Raw Plastic Sheeting",2022,1,"Q1",1,"January",202201,33134446.270000003
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73921,"Other Plastic Sheetings",2022,1,"Q1",1,"January",202201,21746827.440000005
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73922,"Plastic Wash Basins",2022,1,"Q1",1,"January",202201,1887795.4200000002
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73923,"Plastic Lids",2022,1,"Q1",1,"January",202201,20421360.47
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73924,"Plastic Housewares",2022,1,"Q1",1,"January",202201,4259857.959999999
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73925,"Plastic Building Materials",2022,1,"Q1",1,"January",202201,9737237.239999996
+7,"Plastics and Rubbers",739,"Plastics and articles thereof",73926,"Other Plastic Products",2022,1,"Q1",1,"January",202201,10452142.940000001
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74001,"Rubber",2022,1,"Q1",1,"January",202201,279760.1
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74002,"Synthetic Rubber",2022,1,"Q1",1,"January",202201,153043704.97000003
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74003,"Reclaimed Rubber",2022,1,"Q1",1,"January",202201,23851.54
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74005,"Compounded Unvulcanised Rubber",2022,1,"Q1",1,"January",202201,1013507.4700000002
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74006,"Unvulcanised Rubber Products",2022,1,"Q1",1,"January",202201,16266.050000000003
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74007,"Rubber Thread",2022,1,"Q1",1,"January",202201,27134.289999999997
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74008,"Rubber Sheets",2022,1,"Q1",1,"January",202201,1506908.44
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74009,"Rubber Pipes",2022,1,"Q1",1,"January",202201,2448660.6599999997
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74010,"Rubber Belting",2022,1,"Q1",1,"January",202201,2977848.29
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74011,"Rubber Tires",2022,1,"Q1",1,"January",202201,70624082.58999997
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74012,"Used Rubber Tires",2022,1,"Q1",1,"January",202201,106442.30000000002
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74013,"Rubber Inner Tubes",2022,1,"Q1",1,"January",202201,378049.30999999994
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74014,"Pharmaceutical Rubber Products",2022,1,"Q1",1,"January",202201,522870.7100000001
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74015,"Rubber Apparel",2022,1,"Q1",1,"January",202201,713941.5200000001
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74016,"Other Rubber Products",2022,1,"Q1",1,"January",202201,5197181.6400000015
+7,"Plastics and Rubbers",740,"Rubber and articles thereof",74017,"Hard Rubber",2022,1,"Q1",1,"January",202201,18720.81
+8,"Animal Hides",841,"Raw hides and skins (other than furskins) and leather",84101,"Equine and Bovine Hides",2022,1,"Q1",1,"January",202201,31200.010000000002
+8,"Animal Hides",841,"Raw hides and skins (other than furskins) and leather",84104,"Tanned Equine and Bovine Hides",2022,1,"Q1",1,"January",202201,242780.47
+8,"Animal Hides",841,"Raw hides and skins (other than furskins) and leather",84106,"Tanned Goat Hides",2022,1,"Q1",1,"January",202201,42434.68
+8,"Animal Hides",841,"Raw hides and skins (other than furskins) and leather",84107,"Leather of Other Animals",2022,1,"Q1",1,"January",202201,5465879.89
+8,"Animal Hides",841,"Raw hides and skins (other than furskins) and leather",84112,"Leather further prepared after tanning or crusting of sheep or lamb",2022,1,"Q1",1,"January",202201,22815.9
+8,"Animal Hides",841,"Raw hides and skins (other than furskins) and leather",84113,"Leather further prepared after tanning or crusting of animals (other than ovine)",2022,1,"Q1",1,"January",202201,38120.990000000005
+8,"Animal Hides",841,"Raw hides and skins (other than furskins) and leather",84114,"Chamois (including combination chamois) leather",2022,1,"Q1",1,"January",202201,11753.9
+8,"Animal Hides",841,"Raw hides and skins (other than furskins) and leather",84115,"Composition leather with a basis of leather or leather fibre",2022,1,"Q1",1,"January",202201,17065.79
+8,"Animal Hides",842,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",84201,"Saddlery",2022,1,"Q1",1,"January",202201,104031.67000000001
+8,"Animal Hides",842,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",84202,"Trunks and Cases",2022,1,"Q1",1,"January",202201,4806088.61
+8,"Animal Hides",842,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",84203,"Leather Apparel",2022,1,"Q1",1,"January",202201,549953.01
+8,"Animal Hides",842,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",84205,"Other Leather Articles",2022,1,"Q1",1,"January",202201,14839.63
+8,"Animal Hides",843,"Furskins and artificial fur; manufactures thereof",84301,"Raw Furskins",2022,1,"Q1",1,"January",202201,325375.96
+8,"Animal Hides",843,"Furskins and artificial fur; manufactures thereof",84302,"Tanned Furskins",2022,1,"Q1",1,"January",202201,337000.86
+8,"Animal Hides",843,"Furskins and artificial fur; manufactures thereof",84303,"Furskin Apparel",2022,1,"Q1",1,"January",202201,144514.42
+8,"Animal Hides",843,"Furskins and artificial fur; manufactures thereof",84304,"Artificial Fur",2022,1,"Q1",1,"January",202201,76878.67
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94401,"Fuel Wood",2022,1,"Q1",1,"January",202201,55426466.02000006
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94402,"Wood Charcoal",2022,1,"Q1",1,"January",202201,992355.8000000002
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94403,"Rough Wood",2022,1,"Q1",1,"January",202201,42998524.42
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94404,"Wood Stakes",2022,1,"Q1",1,"January",202201,243639.26
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94405,"Wood Wool",2022,1,"Q1",1,"January",202201,21819.9
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94406,"Railroad Ties",2022,1,"Q1",1,"January",202201,733612.71
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94407,"Sawn Wood",2022,1,"Q1",1,"January",202201,363113506.45999974
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94408,"Veneer Sheets",2022,1,"Q1",1,"January",202201,14953753.369999997
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94409,"Shaped Wood",2022,1,"Q1",1,"January",202201,14496050.78
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94410,"Particle Board",2022,1,"Q1",1,"January",202201,55764137.51999998
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94411,"Wood Fiberboard",2022,1,"Q1",1,"January",202201,39282656.49000002
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94412,"Plywood",2022,1,"Q1",1,"January",202201,153834676.94000006
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94413,"Densified Wood",2022,1,"Q1",1,"January",202201,43652.36
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94415,"Wood Crates",2022,1,"Q1",1,"January",202201,4516655.950000001
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94416,"Wood Barrels",2022,1,"Q1",1,"January",202201,160021.38
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94417,"Wooden Tool Handles",2022,1,"Q1",1,"January",202201,142207.33
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94418,"Wood Carpentry",2022,1,"Q1",1,"January",202201,22575475.980000015
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94419,"Wood Kitchenware",2022,1,"Q1",1,"January",202201,1084544.0500000003
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94420,"Wood Ornaments",2022,1,"Q1",1,"January",202201,78013.24
+9,"Wood Products",944,"Wood and articles of wood; wood charcoal",94421,"Other Wood Articles",2022,1,"Q1",1,"January",202201,5541915.469999999
+9,"Wood Products",945,"Cork and articles of cork",94501,"Raw Cork",2022,1,"Q1",1,"January",202201,170.92
+9,"Wood Products",945,"Cork and articles of cork",94502,"Debacked Cork",2022,1,"Q1",1,"January",202201,1.38
+9,"Wood Products",945,"Cork and articles of cork",94503,"Natural Cork Articles",2022,1,"Q1",1,"January",202201,3228.8599999999997
+9,"Wood Products",945,"Cork and articles of cork",94504,"Agglomerated Cork",2022,1,"Q1",1,"January",202201,142600.86
+9,"Wood Products",946,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",94601,"Plaiting Products",2022,1,"Q1",1,"January",202201,14264.900000000001
+9,"Wood Products",946,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",94602,"Basketwork",2022,1,"Q1",1,"January",202201,61219.84
+10,"Paper Goods",1047,"Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard",104701,"Mechanical Wood Pulp",2022,1,"Q1",1,"January",202201,1251.95
+10,"Paper Goods",1047,"Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard",104703,"Sulfate Chemical Woodpulp",2022,1,"Q1",1,"January",202201,98236065.27000001
+10,"Paper Goods",1047,"Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard",104704,"Sulfite Chemical Woodpulp",2022,1,"Q1",1,"January",202201,767168.76
+10,"Paper Goods",1047,"Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard",104705,"Semi chemical Woodpulp",2022,1,"Q1",1,"January",202201,4579463.8100000005
+10,"Paper Goods",1047,"Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard",104706,"Recovered Paper Pulp",2022,1,"Q1",1,"January",202201,153878.57
+10,"Paper Goods",1047,"Pulp of wood or other fibrous cellulosic material; waste and scrap of paper or paperboard",104707,"Recovered Paper",2022,1,"Q1",1,"January",202201,2429977.7
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104801,"Newsprint",2022,1,"Q1",1,"January",202201,40177222.440000005
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104802,"Uncoated Paper",2022,1,"Q1",1,"January",202201,31087776.729999997
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104803,"Facial Tissue",2022,1,"Q1",1,"January",202201,5619497.58
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104804,"Uncoated Kraft Paper",2022,1,"Q1",1,"January",202201,81539537.96999998
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104805,"Other Uncoated Paper",2022,1,"Q1",1,"January",202201,51906498.32999999
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104806,"Vegetable Parchment",2022,1,"Q1",1,"January",202201,1501885.77
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104807,"Composite Paper",2022,1,"Q1",1,"January",202201,96311.54000000001
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104808,"Corrugated Paper",2022,1,"Q1",1,"January",202201,1765677.2800000003
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104809,"Carbon Paper",2022,1,"Q1",1,"January",202201,975.69
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104810,"Kaolin Coated Paper",2022,1,"Q1",1,"January",202201,9596050.99
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104811,"Cellulose Fibers Paper",2022,1,"Q1",1,"January",202201,15193402.420000002
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104812,"Paper Pulp Filter Blocks",2022,1,"Q1",1,"January",202201,23373.81
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104813,"Cigarette Paper",2022,1,"Q1",1,"January",202201,416655.74999999994
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104814,"Wallpaper",2022,1,"Q1",1,"January",202201,4905785.500000001
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104816,"Other Carbon Paper",2022,1,"Q1",1,"January",202201,15844.25
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104817,"Letter Stock",2022,1,"Q1",1,"January",202201,372155.31
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104818,"Toilet Paper",2022,1,"Q1",1,"January",202201,7385812.59
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104819,"Paper Containers",2022,1,"Q1",1,"January",202201,17211792.910000004
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104820,"Paper Notebooks",2022,1,"Q1",1,"January",202201,1079138.25
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104821,"Paper Labels",2022,1,"Q1",1,"January",202201,1315669.59
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104822,"Paper Spools",2022,1,"Q1",1,"January",202201,119351.81999999999
+10,"Paper Goods",1048,"Paper and paperboard; articles of paper pulp, of paper or paperboard",104823,"Shaped Paper",2022,1,"Q1",1,"January",202201,4025346.5599999996
+10,"Paper Goods",1049,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",104901,"Brochures",2022,1,"Q1",1,"January",202201,30696876.78
+10,"Paper Goods",1049,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",104902,"Newspapers",2022,1,"Q1",1,"January",202201,1099776.4200000004
+10,"Paper Goods",1049,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",104903,"Children's Picture Books",2022,1,"Q1",1,"January",202201,313318.0299999999
+10,"Paper Goods",1049,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",104904,"Sheet Music",2022,1,"Q1",1,"January",202201,4769.889999999999
+10,"Paper Goods",1049,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",104906,"Architectural Plans",2022,1,"Q1",1,"January",202201,19.56
+10,"Paper Goods",1049,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",104907,"Postage Stamps",2022,1,"Q1",1,"January",202201,4522405.869999999
+10,"Paper Goods",1049,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",104908,"Decals",2022,1,"Q1",1,"January",202201,31307.04
+10,"Paper Goods",1049,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",104909,"Postcards",2022,1,"Q1",1,"January",202201,70551.39999999998
+10,"Paper Goods",1049,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",104910,"Calendars",2022,1,"Q1",1,"January",202201,11167.710000000001
+10,"Paper Goods",1049,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",104911,"Other Printed Material",2022,1,"Q1",1,"January",202201,905479.8199999997
+11,"Textiles",1150,"Silk",115006,"Retail Silk Yarn",2022,1,"Q1",1,"January",202201,11.81
+11,"Textiles",1150,"Silk",115007,"Silk Fabrics",2022,1,"Q1",1,"January",202201,490.07000000000005
+11,"Textiles",1151,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",115101,"Wool",2022,1,"Q1",1,"January",202201,470871.75999999995
+11,"Textiles",1151,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",115103,"Wool or Animal Hair Waste",2022,1,"Q1",1,"January",202201,104935.23000000001
+11,"Textiles",1151,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",115105,"Prepared Wool or Animal Hair",2022,1,"Q1",1,"January",202201,32651.16
+11,"Textiles",1151,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",115106,"Non-Retail Carded Wool Yarn",2022,1,"Q1",1,"January",202201,18.67
+11,"Textiles",1151,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",115107,"Non-Retail Combed Wool Yarn",2022,1,"Q1",1,"January",202201,8.24
+11,"Textiles",1151,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",115109,"Retail Wool or Animal Hair Yarn",2022,1,"Q1",1,"January",202201,13366.64
+11,"Textiles",1151,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",115111,"Carded Wool or Animal Hair Fabric",2022,1,"Q1",1,"January",202201,1476.3899999999999
+11,"Textiles",1151,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",115112,"Combed Wool or Animal Hair Fabric",2022,1,"Q1",1,"January",202201,166898.17000000004
+11,"Textiles",1151,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",115113,"Horsehair Fabric",2022,1,"Q1",1,"January",202201,12750
+11,"Textiles",1152,"Cotton",115201,"Raw Cotton",2022,1,"Q1",1,"January",202201,58753.1
+11,"Textiles",1152,"Cotton",115203,"Prepared Cotton",2022,1,"Q1",1,"January",202201,20399.22
+11,"Textiles",1152,"Cotton",115204,"Cotton Sewing Thread",2022,1,"Q1",1,"January",202201,9006.539999999999
+11,"Textiles",1152,"Cotton",115205,"Non-Retail Pure Cotton Yarn",2022,1,"Q1",1,"January",202201,385948.92000000004
+11,"Textiles",1152,"Cotton",115206,"Non-Retail Mixed Cotton Yarn",2022,1,"Q1",1,"January",202201,104661.95
+11,"Textiles",1152,"Cotton",115207,"Retail Cotton Yarn",2022,1,"Q1",1,"January",202201,20283.43
+11,"Textiles",1152,"Cotton",115208,"Light Pure Woven Cotton",2022,1,"Q1",1,"January",202201,2422431.12
+11,"Textiles",1152,"Cotton",115209,"Heavy Pure Woven Cotton",2022,1,"Q1",1,"January",202201,464108.2600000001
+11,"Textiles",1152,"Cotton",115210,"Light Mixed Woven Cotton",2022,1,"Q1",1,"January",202201,132513.36000000002
+11,"Textiles",1152,"Cotton",115211,"Heavy Mixed Woven Cotton",2022,1,"Q1",1,"January",202201,524002.45
+11,"Textiles",1152,"Cotton",115212,"Other Cotton Fabrics",2022,1,"Q1",1,"January",202201,87389.1
+11,"Textiles",1153,"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",115301,"Flax Fibers",2022,1,"Q1",1,"January",202201,1406754.1700000002
+11,"Textiles",1153,"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",115302,"Hemp Fibers",2022,1,"Q1",1,"January",202201,52950.2
+11,"Textiles",1153,"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",115303,"Jute and Other Textile Fibers",2022,1,"Q1",1,"January",202201,72.74
+11,"Textiles",1153,"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",115305,"Coconut and Other Vegetable Fibers",2022,1,"Q1",1,"January",202201,23351.08
+11,"Textiles",1153,"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",115306,"Flax Yarn",2022,1,"Q1",1,"January",202201,1751.3100000000002
+11,"Textiles",1153,"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",115307,"Jute Yarn",2022,1,"Q1",1,"January",202201,1150.6999999999998
+11,"Textiles",1153,"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",115308,"Other Vegetable Fibers Yarn",2022,1,"Q1",1,"January",202201,8.81
+11,"Textiles",1153,"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",115309,"Flax Woven Fabric",2022,1,"Q1",1,"January",202201,401986.79000000004
+11,"Textiles",1153,"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",115310,"Jute Woven Fabric",2022,1,"Q1",1,"January",202201,47527.67
+11,"Textiles",1153,"Vegetable textile fibres; paper yarn and woven fabrics of paper yarn",115311,"Other Vegetable Fibers Fabric",2022,1,"Q1",1,"January",202201,3144.57
+11,"Textiles",1154,"Man-made filaments",115401,"Artificial Filament Sewing Thread",2022,1,"Q1",1,"January",202201,139030.62000000002
+11,"Textiles",1154,"Man-made filaments",115402,"Non-Retail Synthetic Filament Yarn",2022,1,"Q1",1,"January",202201,5568302.92
+11,"Textiles",1154,"Man-made filaments",115403,"Non-Retail Artificial Filament Yarn",2022,1,"Q1",1,"January",202201,56983.35
+11,"Textiles",1154,"Man-made filaments",115404,"Synthetic Monofilament",2022,1,"Q1",1,"January",202201,58146.03
+11,"Textiles",1154,"Man-made filaments",115405,"Artificial Monofilament",2022,1,"Q1",1,"January",202201,5248.679999999999
+11,"Textiles",1154,"Man-made filaments",115406,"Retail Artificial Filament Yarn",2022,1,"Q1",1,"January",202201,491.19
+11,"Textiles",1154,"Man-made filaments",115407,"Synthetic Filament Yarn Woven Fabric",2022,1,"Q1",1,"January",202201,1930358.2199999995
+11,"Textiles",1154,"Man-made filaments",115408,"Artificial Filament Yarn Woven Fabric",2022,1,"Q1",1,"January",202201,49311.21
+11,"Textiles",1155,"Man-made staple fibres",115502,"Artificial Filament Tow",2022,1,"Q1",1,"January",202201,1631467.7399999998
+11,"Textiles",1155,"Man-made staple fibres",115503,"Unprocessed Synthetic Staple Fibers",2022,1,"Q1",1,"January",202201,1232563.9399999997
+11,"Textiles",1155,"Man-made staple fibres",115504,"Unprocessed Artificial Staple Fibers",2022,1,"Q1",1,"January",202201,195014.25
+11,"Textiles",1155,"Man-made staple fibres",115505,"Artificial Fibers Waste",2022,1,"Q1",1,"January",202201,451847.9
+11,"Textiles",1155,"Man-made staple fibres",115506,"Processed Synthetic Staple Fibers",2022,1,"Q1",1,"January",202201,6243.45
+11,"Textiles",1155,"Man-made staple fibres",115507,"Processed Artificial Staple Fibers",2022,1,"Q1",1,"January",202201,1406.11
+11,"Textiles",1155,"Man-made staple fibres",115508,"Non-Retail Artificial Staple Fibers Sewing Thread",2022,1,"Q1",1,"January",202201,57891.88
+11,"Textiles",1155,"Man-made staple fibres",115509,"Non-Retail Synthetic Staple Fibers Yarn",2022,1,"Q1",1,"January",202201,83053.43
+11,"Textiles",1155,"Man-made staple fibres",115510,"Non-Retail Artificial Staple Fibers Yarn",2022,1,"Q1",1,"January",202201,16144.41
+11,"Textiles",1155,"Man-made staple fibres",115511,"Retail Artificial Staple Fibers Yarn",2022,1,"Q1",1,"January",202201,70861.14
+11,"Textiles",1155,"Man-made staple fibres",115512,"Synthetic Fabrics",2022,1,"Q1",1,"January",202201,401761.0899999999
+11,"Textiles",1155,"Man-made staple fibres",115513,"Light Synthetic Cotton Fabrics",2022,1,"Q1",1,"January",202201,98488.00999999998
+11,"Textiles",1155,"Man-made staple fibres",115514,"Heavy Synthetic Cotton Fabrics",2022,1,"Q1",1,"January",202201,311747.41
+11,"Textiles",1155,"Man-made staple fibres",115515,"Other Synthetic Fabrics",2022,1,"Q1",1,"January",202201,531818.7899999999
+11,"Textiles",1155,"Man-made staple fibres",115516,"Woven Fabric of Synthetic Staple Fibers",2022,1,"Q1",1,"January",202201,139782.91
+11,"Textiles",1156,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",115601,"Wadding",2022,1,"Q1",1,"January",202201,4387579.570000001
+11,"Textiles",1156,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",115602,"Felt",2022,1,"Q1",1,"January",202201,116961.63
+11,"Textiles",1156,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",115603,"Non-woven Textiles",2022,1,"Q1",1,"January",202201,5491275.51
+11,"Textiles",1156,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",115604,"Rubber Textiles",2022,1,"Q1",1,"January",202201,104377.66999999998
+11,"Textiles",1156,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",115605,"Metallic Yarn",2022,1,"Q1",1,"January",202201,423.46999999999997
+11,"Textiles",1156,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",115606,"Gimp Yarn",2022,1,"Q1",1,"January",202201,111640.34999999999
+11,"Textiles",1156,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",115607,"Twine and Rope",2022,1,"Q1",1,"January",202201,539449.3300000001
+11,"Textiles",1156,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",115608,"Netting",2022,1,"Q1",1,"January",202201,2278191.0500000003
+11,"Textiles",1156,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",115609,"Other Articles of Twine and Rope",2022,1,"Q1",1,"January",202201,110987.87
+11,"Textiles",1157,"Carpets and other textile floor coverings",115702,"Hand-Woven Rugs",2022,1,"Q1",1,"January",202201,275777.25
+11,"Textiles",1157,"Carpets and other textile floor coverings",115703,"Tufted Carpets",2022,1,"Q1",1,"January",202201,14397.509999999998
+11,"Textiles",1157,"Carpets and other textile floor coverings",115704,"Felt Carpets",2022,1,"Q1",1,"January",202201,46608.52
+11,"Textiles",1157,"Carpets and other textile floor coverings",115705,"Other Carpets",2022,1,"Q1",1,"January",202201,183299.4
+11,"Textiles",1158,"Woven fabrics",115801,"Woven Fabrics",2022,1,"Q1",1,"January",202201,197928.78999999998
+11,"Textiles",1158,"Woven fabrics",115802,"Terry Fabric",2022,1,"Q1",1,"January",202201,935.71
+11,"Textiles",1158,"Woven fabrics",115804,"Tulles and Net Fabric",2022,1,"Q1",1,"January",202201,85833.67
+11,"Textiles",1158,"Woven fabrics",115805,"Hand-Woven Tapestries",2022,1,"Q1",1,"January",202201,53.449999999999996
+11,"Textiles",1158,"Woven fabrics",115806,"Narrow Woven Fabric",2022,1,"Q1",1,"January",202201,346159.45999999996
+11,"Textiles",1158,"Woven fabrics",115807,"Labels",2022,1,"Q1",1,"January",202201,101516.53
+11,"Textiles",1158,"Woven fabrics",115808,"Ornamental Trimmings",2022,1,"Q1",1,"January",202201,63459.590000000004
+11,"Textiles",1158,"Woven fabrics",115809,"Metallic Fabric",2022,1,"Q1",1,"January",202201,113.32
+11,"Textiles",1158,"Woven fabrics",115810,"Embroidery",2022,1,"Q1",1,"January",202201,13828.89
+11,"Textiles",1158,"Woven fabrics",115811,"Quilted Textiles",2022,1,"Q1",1,"January",202201,136140.31999999998
+11,"Textiles",1159,"Textile fabrics",115901,"Gum Coated Textile Fabric",2022,1,"Q1",1,"January",202201,11847.64
+11,"Textiles",1159,"Textile fabrics",115902,"Polyamide Fabric",2022,1,"Q1",1,"January",202201,457996.44
+11,"Textiles",1159,"Textile fabrics",115903,"Plastic Coated Textile Fabric",2022,1,"Q1",1,"January",202201,1032937.7
+11,"Textiles",1159,"Textile fabrics",115904,"Linoleum",2022,1,"Q1",1,"January",202201,2329722.69
+11,"Textiles",1159,"Textile fabrics",115906,"Rubber Textile Fabric",2022,1,"Q1",1,"January",202201,182678.16
+11,"Textiles",1159,"Textile fabrics",115907,"Coated Textile Fabric",2022,1,"Q1",1,"January",202201,64510.259999999995
+11,"Textiles",1159,"Textile fabrics",115908,"Textile Wicks",2022,1,"Q1",1,"January",202201,115.33
+11,"Textiles",1159,"Textile fabrics",115909,"Hose Piping Textiles",2022,1,"Q1",1,"January",202201,103014.84
+11,"Textiles",1159,"Textile fabrics",115910,"Conveyor Belt Textiles",2022,1,"Q1",1,"January",202201,37739.86
+11,"Textiles",1159,"Textile fabrics",115911,"Technical Use Textiles",2022,1,"Q1",1,"January",202201,608644.73
+11,"Textiles",1160,"Knitted or chrocheted fabrics",116001,"Pile Fabric",2022,1,"Q1",1,"January",202201,1363048.52
+11,"Textiles",1160,"Knitted or chrocheted fabrics",116002,"Light Rubberized Knitted Fabric",2022,1,"Q1",1,"January",202201,53761.45999999999
+11,"Textiles",1160,"Knitted or chrocheted fabrics",116003,"Knitted or crocheted fabrics of a width not exceeding 30 cm",2022,1,"Q1",1,"January",202201,4419.860000000001
+11,"Textiles",1160,"Knitted or chrocheted fabrics",116004,"Knitted or crocheted fabrics of a width exceeding 30 cm",2022,1,"Q1",1,"January",202201,473182.08999999997
+11,"Textiles",1160,"Knitted or chrocheted fabrics",116005,"Warp knit fabrics (including those made on galloon knitting machines)",2022,1,"Q1",1,"January",202201,255067.87
+11,"Textiles",1160,"Knitted or chrocheted fabrics",116006,"Other knitted or crocheted fabrics.",2022,1,"Q1",1,"January",202201,1326103.13
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116101,"Knit Men's Coats",2022,1,"Q1",1,"January",202201,410386.27999999997
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116102,"Knit Women's Coats",2022,1,"Q1",1,"January",202201,516973.19999999995
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116103,"Knit Men's Suits",2022,1,"Q1",1,"January",202201,2815136.85
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116104,"Knit Women's Suits",2022,1,"Q1",1,"January",202201,7497443.440000001
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116105,"Knit Men's Shirts",2022,1,"Q1",1,"January",202201,530425.67
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116106,"Knit Women's Shirts",2022,1,"Q1",1,"January",202201,1027004.9500000001
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116107,"Knit Men's Undergarments",2022,1,"Q1",1,"January",202201,340373.2800000001
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116108,"Knit Women's Undergarments",2022,1,"Q1",1,"January",202201,747518.84
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116109,"Knit T-shirts",2022,1,"Q1",1,"January",202201,2525242.26
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116110,"Knit Sweaters",2022,1,"Q1",1,"January",202201,6503240.47
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116111,"Knit Babies' Garments",2022,1,"Q1",1,"January",202201,1404216.4399999997
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116112,"Knit Active Wear",2022,1,"Q1",1,"January",202201,538862.18
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116113,"Garments of Impregnated Fabric",2022,1,"Q1",1,"January",202201,105006.21000000002
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116114,"Other Knit Garments",2022,1,"Q1",1,"January",202201,288550.42
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116115,"Knit Socks and Hosiery",2022,1,"Q1",1,"January",202201,1694967.41
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116116,"Knit Gloves",2022,1,"Q1",1,"January",202201,667630.1499999999
+11,"Textiles",1161,"Knitted or crocheted apparel and clothing accessories",116117,"Other Knit Clothing Accessories",2022,1,"Q1",1,"January",202201,278774.14
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116203,"Non-Knit Men's Suits",2022,1,"Q1",1,"January",202201,1840728.4899999998
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116204,"Non-Knit Women's Suits",2022,1,"Q1",1,"January",202201,2925054.96
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116205,"Non-Knit Men's Shirts",2022,1,"Q1",1,"January",202201,128880.20999999999
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116206,"Non-Knit Women's Shirts",2022,1,"Q1",1,"January",202201,493612.3599999999
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116207,"Non-Knit Men's Undergarments",2022,1,"Q1",1,"January",202201,162524.11000000002
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116208,"Non-Knit Women's Undergarments",2022,1,"Q1",1,"January",202201,335246.21
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116209,"Non-Knit Babies' Garments",2022,1,"Q1",1,"January",202201,1501592.96
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116210,"Felt or Coated Fabric Garments",2022,1,"Q1",1,"January",202201,1474623.6900000002
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116211,"Non-Knit Active Wear",2022,1,"Q1",1,"January",202201,709008.1599999999
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116212,"Other Women's Undergarments",2022,1,"Q1",1,"January",202201,1022609.1900000001
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116213,"Handkerchiefs",2022,1,"Q1",1,"January",202201,22167.28
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116214,"Scarves",2022,1,"Q1",1,"January",202201,147377.66999999998
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116215,"Neck Ties",2022,1,"Q1",1,"January",202201,6902.119999999999
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116216,"Non-Knit Gloves",2022,1,"Q1",1,"January",202201,145288.65999999997
+11,"Textiles",1162,"Non-knit or crocheted apparel and clothing accessories",116217,"Other Non-Knit Clothing Accessories",2022,1,"Q1",1,"January",202201,306392.12
+11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",116301,"Blankets",2022,1,"Q1",1,"January",202201,404513.25
+11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",116302,"House Linens",2022,1,"Q1",1,"January",202201,1606129.37
+11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",116303,"Window Dressings",2022,1,"Q1",1,"January",202201,825272.03
+11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",116304,"Bedspreads",2022,1,"Q1",1,"January",202201,415742.0399999999
+11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",116305,"Packing Bags",2022,1,"Q1",1,"January",202201,3155158.4000000004
+11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",116306,"Awnings, Tents, and Sails",2022,1,"Q1",1,"January",202201,210871.85
+11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",116307,"Other Cloth Articles",2022,1,"Q1",1,"January",202201,3497124.349999999
+11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",116308,"Packaged Sewing Sets",2022,1,"Q1",1,"January",202201,35990.8
+11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",116309,"Used Clothing",2022,1,"Q1",1,"January",202201,78512.59999999999
+11,"Textiles",1163,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",116310,"Textile Scraps",2022,1,"Q1",1,"January",202201,59715.340000000004
+12,"Footwear and Headwear",1264,"Footwear; gaiters and the like; parts of such articles",126401,"Waterproof Footwear",2022,1,"Q1",1,"January",202201,486346.0199999999
+12,"Footwear and Headwear",1264,"Footwear; gaiters and the like; parts of such articles",126402,"Rubber Footwear",2022,1,"Q1",1,"January",202201,3411932.34
+12,"Footwear and Headwear",1264,"Footwear; gaiters and the like; parts of such articles",126403,"Leather Footwear",2022,1,"Q1",1,"January",202201,4068062.2999999993
+12,"Footwear and Headwear",1264,"Footwear; gaiters and the like; parts of such articles",126404,"Textile Footwear",2022,1,"Q1",1,"January",202201,4278241.159999998
+12,"Footwear and Headwear",1264,"Footwear; gaiters and the like; parts of such articles",126405,"Other Footwear",2022,1,"Q1",1,"January",202201,904693.4
+12,"Footwear and Headwear",1264,"Footwear; gaiters and the like; parts of such articles",126406,"Footwear Parts",2022,1,"Q1",1,"January",202201,610756.35
+12,"Footwear and Headwear",1265,"Headgear and parts thereof",126501,"Hat Forms",2022,1,"Q1",1,"January",202201,7114.54
+12,"Footwear and Headwear",1265,"Headgear and parts thereof",126504,"Hats",2022,1,"Q1",1,"January",202201,23402.81
+12,"Footwear and Headwear",1265,"Headgear and parts thereof",126505,"Knitted Hats",2022,1,"Q1",1,"January",202201,1214129.8900000004
+12,"Footwear and Headwear",1265,"Headgear and parts thereof",126506,"Other Headwear",2022,1,"Q1",1,"January",202201,702337.7899999999
+12,"Footwear and Headwear",1265,"Headgear and parts thereof",126507,"Headbands and Linings",2022,1,"Q1",1,"January",202201,2453.26
+12,"Footwear and Headwear",1266,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",126601,"Umbrellas",2022,1,"Q1",1,"January",202201,79200.79000000001
+12,"Footwear and Headwear",1266,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",126602,"Walking Sticks",2022,1,"Q1",1,"January",202201,10952.21
+12,"Footwear and Headwear",1266,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",126603,"Umbrella and Walking Stick Accessories",2022,1,"Q1",1,"January",202201,108.37
+12,"Footwear and Headwear",1267,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",126701,"Bird Skins and Feathers",2022,1,"Q1",1,"January",202201,100213.76000000001
+12,"Footwear and Headwear",1267,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",126702,"Artificial Vegetation",2022,1,"Q1",1,"January",202201,285180.2
+12,"Footwear and Headwear",1267,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",126703,"Processed Hair",2022,1,"Q1",1,"January",202201,22.22
+12,"Footwear and Headwear",1267,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",126704,"Fake Hair",2022,1,"Q1",1,"January",202201,114827.07
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136801,"Curbstones",2022,1,"Q1",1,"January",202201,6581.76
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136802,"Building Stone",2022,1,"Q1",1,"January",202201,316160.61
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136803,"Slate",2022,1,"Q1",1,"January",202201,222807.27000000002
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136804,"Milling Stones",2022,1,"Q1",1,"January",202201,1694771.0799999996
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136805,"Abrasive Powder",2022,1,"Q1",1,"January",202201,444778.80000000005
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136806,"Rock Wool",2022,1,"Q1",1,"January",202201,7232864.169999999
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136807,"Asphalt",2022,1,"Q1",1,"January",202201,11090968.420000002
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136808,"Vegetable Fiber",2022,1,"Q1",1,"January",202201,998354.8600000001
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136809,"Plaster Articles",2022,1,"Q1",1,"January",202201,2576359.5499999993
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136810,"Cement Articles",2022,1,"Q1",1,"January",202201,2795998.6000000006
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136811,"Asbestos Cement Articles",2022,1,"Q1",1,"January",202201,1324195.0099999998
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136812,"Asbestos Fibres",2022,1,"Q1",1,"January",202201,717564.7799999998
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136813,"Friction Material",2022,1,"Q1",1,"January",202201,235129.72000000003
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136814,"Mica",2022,1,"Q1",1,"January",202201,280658.89
+13,"Stone And Glass",1368,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",136815,"Other Stone Articles",2022,1,"Q1",1,"January",202201,2625995.11
+13,"Stone And Glass",1369,"Ceramic products",136901,"Bricks",2022,1,"Q1",1,"January",202201,63251.81
+13,"Stone And Glass",1369,"Ceramic products",136902,"Refractory Bricks",2022,1,"Q1",1,"January",202201,8957098.5
+13,"Stone And Glass",1369,"Ceramic products",136903,"Refractory Ceramics",2022,1,"Q1",1,"January",202201,228712.73
+13,"Stone And Glass",1369,"Ceramic products",136904,"Ceramic Bricks",2022,1,"Q1",1,"January",202201,1657078.3399999999
+13,"Stone And Glass",1369,"Ceramic products",136905,"Roofing Tiles",2022,1,"Q1",1,"January",202201,335.19
+13,"Stone And Glass",1369,"Ceramic products",136907,"Unglazed Ceramics",2022,1,"Q1",1,"January",202201,8065838.569999999
+13,"Stone And Glass",1369,"Ceramic products",136909,"Laboratory Ceramic Ware",2022,1,"Q1",1,"January",202201,165715.27000000002
+13,"Stone And Glass",1369,"Ceramic products",136910,"Bathroom Ceramics",2022,1,"Q1",1,"January",202201,3828402.2800000003
+13,"Stone And Glass",1369,"Ceramic products",136911,"Porcelain Tableware",2022,1,"Q1",1,"January",202201,651394.2000000001
+13,"Stone And Glass",1369,"Ceramic products",136912,"Ceramic Tableware",2022,1,"Q1",1,"January",202201,543150.0099999999
+13,"Stone And Glass",1369,"Ceramic products",136913,"Ornamental Ceramics",2022,1,"Q1",1,"January",202201,79107.18000000002
+13,"Stone And Glass",1369,"Ceramic products",136914,"Other Ceramic Articles",2022,1,"Q1",1,"January",202201,1136854.4699999997
+13,"Stone And Glass",1370,"Glass and glassware",137001,"Glass Scraps",2022,1,"Q1",1,"January",202201,6057.13
+13,"Stone And Glass",1370,"Glass and glassware",137002,"Glass Balls",2022,1,"Q1",1,"January",202201,427421.16000000003
+13,"Stone And Glass",1370,"Glass and glassware",137003,"Cast or Rolled Glass",2022,1,"Q1",1,"January",202201,8949.539999999999
+13,"Stone And Glass",1370,"Glass and glassware",137004,"Blown Glass",2022,1,"Q1",1,"January",202201,384302.31
+13,"Stone And Glass",1370,"Glass and glassware",137005,"Float Glass",2022,1,"Q1",1,"January",202201,15042239.040000003
+13,"Stone And Glass",1370,"Glass and glassware",137006,"Glass with Edge Workings",2022,1,"Q1",1,"January",202201,149807.95999999996
+13,"Stone And Glass",1370,"Glass and glassware",137007,"Safety Glass",2022,1,"Q1",1,"January",202201,5730272.03
+13,"Stone And Glass",1370,"Glass and glassware",137008,"Insulating Glass",2022,1,"Q1",1,"January",202201,868080.13
+13,"Stone And Glass",1370,"Glass and glassware",137009,"Glass Mirrors",2022,1,"Q1",1,"January",202201,3183520.5
+13,"Stone And Glass",1370,"Glass and glassware",137010,"Glass Bottles",2022,1,"Q1",1,"January",202201,17099055.939999994
+13,"Stone And Glass",1370,"Glass and glassware",137011,"Glass Bulbs",2022,1,"Q1",1,"January",202201,2875.33
+13,"Stone And Glass",1370,"Glass and glassware",137013,"Interior Decorative Glassware",2022,1,"Q1",1,"January",202201,4106118.2499999995
+13,"Stone And Glass",1370,"Glass and glassware",137014,"Signaling Glassware",2022,1,"Q1",1,"January",202201,85178.26
+13,"Stone And Glass",1370,"Glass and glassware",137015,"Eyewear and Clock Glass",2022,1,"Q1",1,"January",202201,35269.62
+13,"Stone And Glass",1370,"Glass and glassware",137016,"Glass Bricks",2022,1,"Q1",1,"January",202201,51842.61
+13,"Stone And Glass",1370,"Glass and glassware",137017,"Laboratory Glassware",2022,1,"Q1",1,"January",202201,156113.37
+13,"Stone And Glass",1370,"Glass and glassware",137018,"Glass Beads",2022,1,"Q1",1,"January",202201,771309.08
+13,"Stone And Glass",1370,"Glass and glassware",137019,"Glass Fibers",2022,1,"Q1",1,"January",202201,5972250.679999999
+13,"Stone And Glass",1370,"Glass and glassware",137020,"Other Glass Articles",2022,1,"Q1",1,"January",202201,412148.58999999997
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147101,"Pearls",2022,1,"Q1",1,"January",202201,2791.87
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147102,"Diamonds",2022,1,"Q1",1,"January",202201,321704474.57000005
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147103,"Precious Stones",2022,1,"Q1",1,"January",202201,1432534.5199999998
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147104,"Synthetic Reconstructed Jewellery Stones",2022,1,"Q1",1,"January",202201,734133.42
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147105,"Precious Stone Dust",2022,1,"Q1",1,"January",202201,101000.87
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147106,"Silver",2022,1,"Q1",1,"January",202201,27461119.16
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147108,"Gold",2022,1,"Q1",1,"January",202201,745085243.9399999
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147109,"Gold Clad Metals",2022,1,"Q1",1,"January",202201,1437.71
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147110,"Platinum",2022,1,"Q1",1,"January",202201,437037730.6
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147112,"Precious Metal Scraps",2022,1,"Q1",1,"January",202201,2666.31
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147113,"Jewellery",2022,1,"Q1",1,"January",202201,3942659.7
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147114,"Metal-Clad Products",2022,1,"Q1",1,"January",202201,68815.65
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147115,"Other Precious Metal Products",2022,1,"Q1",1,"January",202201,3828349.35
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147116,"Pearl Products",2022,1,"Q1",1,"January",202201,49389.97000000001
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147117,"Imitation Jewellery",2022,1,"Q1",1,"January",202201,357691.5999999999
+14,"Precious Metals",1471,"Precious metals, gems and jewelry",147118,"Coin",2022,1,"Q1",1,"January",202201,452478.71
+15,"Metals",1572,"Iron and steel",157201,"Pig Iron",2022,1,"Q1",1,"January",202201,80747008.42999999
+15,"Metals",1572,"Iron and steel",157202,"Ferroalloys",2022,1,"Q1",1,"January",202201,138752633.57999998
+15,"Metals",1572,"Iron and steel",157203,"Iron Reductions",2022,1,"Q1",1,"January",202201,99223994.00999999
+15,"Metals",1572,"Iron and steel",157204,"Scrap Iron",2022,1,"Q1",1,"January",202201,22791525.490000002
+15,"Metals",1572,"Iron and steel",157205,"Iron Powder",2022,1,"Q1",1,"January",202201,1511289.5899999999
+15,"Metals",1572,"Iron and steel",157206,"Iron Ingots",2022,1,"Q1",1,"January",202201,10150.85
+15,"Metals",1572,"Iron and steel",157207,"Semi-Finished Iron",2022,1,"Q1",1,"January",202201,837848027.8299999
+15,"Metals",1572,"Iron and steel",157208,"Hot-Rolled Iron",2022,1,"Q1",1,"January",202201,421255476.68999994
+15,"Metals",1572,"Iron and steel",157209,"Cold-Rolled Iron",2022,1,"Q1",1,"January",202201,61600485.61
+15,"Metals",1572,"Iron and steel",157210,"Coated Flat-Rolled Iron",2022,1,"Q1",1,"January",202201,108920780.43
+15,"Metals",1572,"Iron and steel",157211,"Large Flat-Rolled Iron",2022,1,"Q1",1,"January",202201,11855644.55
+15,"Metals",1572,"Iron and steel",157212,"Large Coated Flat-Rolled Iron",2022,1,"Q1",1,"January",202201,3670236.7500000005
+15,"Metals",1572,"Iron and steel",157213,"Hot-Rolled Iron Bars",2022,1,"Q1",1,"January",202201,119099192.89999998
+15,"Metals",1572,"Iron and steel",157214,"Raw Iron Bars",2022,1,"Q1",1,"January",202201,82162710.99
+15,"Metals",1572,"Iron and steel",157215,"Other Iron Bars",2022,1,"Q1",1,"January",202201,13559925.210000005
+15,"Metals",1572,"Iron and steel",157216,"Iron Blocks",2022,1,"Q1",1,"January",202201,42971643.42
+15,"Metals",1572,"Iron and steel",157217,"Iron Wire",2022,1,"Q1",1,"January",202201,20058922.04
+15,"Metals",1572,"Iron and steel",157218,"Stainless Steel Ingots",2022,1,"Q1",1,"January",202201,20635.44
+15,"Metals",1572,"Iron and steel",157219,"Large Flat-Rolled Stainless Steel",2022,1,"Q1",1,"January",202201,4285618.140000001
+15,"Metals",1572,"Iron and steel",157220,"Flat-Rolled Stainless Steel",2022,1,"Q1",1,"January",202201,256528.18
+15,"Metals",1572,"Iron and steel",157222,"Other Stainless Steel Bars",2022,1,"Q1",1,"January",202201,1374774.78
+15,"Metals",1572,"Iron and steel",157223,"Stainless Steel Wire",2022,1,"Q1",1,"January",202201,268842.89999999997
+15,"Metals",1572,"Iron and steel",157224,"Steel Ingots",2022,1,"Q1",1,"January",202201,47507702.04
+15,"Metals",1572,"Iron and steel",157225,"Flat Flat-Rolled Steel",2022,1,"Q1",1,"January",202201,104573625.36
+15,"Metals",1572,"Iron and steel",157226,"Flat-Rolled Iron",2022,1,"Q1",1,"January",202201,9494378.76
+15,"Metals",1572,"Iron and steel",157227,"Steel Bars",2022,1,"Q1",1,"January",202201,2352848.81
+15,"Metals",1572,"Iron and steel",157228,"Other Steel Bars",2022,1,"Q1",1,"January",202201,62119393.45
+15,"Metals",1572,"Iron and steel",157229,"Steel Wire",2022,1,"Q1",1,"January",202201,18858929.389999997
+15,"Metals",1573,"Iron or steel articles",157301,"Iron Sheet Piling",2022,1,"Q1",1,"January",202201,456255.61
+15,"Metals",1573,"Iron or steel articles",157302,"Iron Railway Products",2022,1,"Q1",1,"January",202201,6616442.03
+15,"Metals",1573,"Iron or steel articles",157303,"Cast Iron Pipes",2022,1,"Q1",1,"January",202201,88703.87
+15,"Metals",1573,"Iron or steel articles",157304,"Iron Pipes",2022,1,"Q1",1,"January",202201,87561573.41
+15,"Metals",1573,"Iron or steel articles",157305,"Other Large Iron Pipes",2022,1,"Q1",1,"January",202201,11363208.839999998
+15,"Metals",1573,"Iron or steel articles",157306,"Other Small Iron Pipes",2022,1,"Q1",1,"January",202201,44975560.97
+15,"Metals",1573,"Iron or steel articles",157307,"Iron Pipe Fittings",2022,1,"Q1",1,"January",202201,3487501.8999999994
+15,"Metals",1573,"Iron or steel articles",157308,"Iron Structures",2022,1,"Q1",1,"January",202201,42129516.30000001
+15,"Metals",1573,"Iron or steel articles",157309,"Large Iron Containers",2022,1,"Q1",1,"January",202201,2200719.83
+15,"Metals",1573,"Iron or steel articles",157310,"Small Iron Containers",2022,1,"Q1",1,"January",202201,2460760.58
+15,"Metals",1573,"Iron or steel articles",157311,"Iron Gas Containers",2022,1,"Q1",1,"January",202201,1143952.26
+15,"Metals",1573,"Iron or steel articles",157312,"Stranded Iron Wire",2022,1,"Q1",1,"January",202201,7362025.589999998
+15,"Metals",1573,"Iron or steel articles",157313,"Barbed Wire",2022,1,"Q1",1,"January",202201,20723.969999999998
+15,"Metals",1573,"Iron or steel articles",157314,"Iron Cloth",2022,1,"Q1",1,"January",202201,1441067.6900000002
+15,"Metals",1573,"Iron or steel articles",157315,"Iron Chains",2022,1,"Q1",1,"January",202201,983954.6099999998
+15,"Metals",1573,"Iron or steel articles",157316,"Iron Anchors",2022,1,"Q1",1,"January",202201,309.53999999999996
+15,"Metals",1573,"Iron or steel articles",157317,"Iron Nails",2022,1,"Q1",1,"January",202201,1273642.3299999998
+15,"Metals",1573,"Iron or steel articles",157318,"Iron Fasteners",2022,1,"Q1",1,"January",202201,6772294.000000001
+15,"Metals",1573,"Iron or steel articles",157319,"Iron Sewing Needles",2022,1,"Q1",1,"January",202201,27854.379999999997
+15,"Metals",1573,"Iron or steel articles",157320,"Iron Springs",2022,1,"Q1",1,"January",202201,2971639.0300000007
+15,"Metals",1573,"Iron or steel articles",157321,"Iron Stovetops",2022,1,"Q1",1,"January",202201,1401919.3199999998
+15,"Metals",1573,"Iron or steel articles",157322,"Iron Radiators",2022,1,"Q1",1,"January",202201,2991964.09
+15,"Metals",1573,"Iron or steel articles",157323,"Iron Housewares",2022,1,"Q1",1,"January",202201,3629277.5699999994
+15,"Metals",1573,"Iron or steel articles",157324,"Iron Toiletry",2022,1,"Q1",1,"January",202201,752593.0700000001
+15,"Metals",1573,"Iron or steel articles",157325,"Other Cast Iron Products",2022,1,"Q1",1,"January",202201,1265372
+15,"Metals",1573,"Iron or steel articles",157326,"Other Iron Products",2022,1,"Q1",1,"January",202201,28781382.470000003
+15,"Metals",1574,"Copper and articles thereof",157403,"Refined Copper",2022,1,"Q1",1,"January",202201,1081101451.7
+15,"Metals",1574,"Copper and articles thereof",157404,"Scrap Copper",2022,1,"Q1",1,"January",202201,2161468.81
+15,"Metals",1574,"Copper and articles thereof",157405,"Copper Alloys",2022,1,"Q1",1,"January",202201,26376.18
+15,"Metals",1574,"Copper and articles thereof",157406,"Copper Powder",2022,1,"Q1",1,"January",202201,2243521.94
+15,"Metals",1574,"Copper and articles thereof",157407,"Copper Bars",2022,1,"Q1",1,"January",202201,2353572.77
+15,"Metals",1574,"Copper and articles thereof",157408,"Copper Wire",2022,1,"Q1",1,"January",202201,186972111.74999997
+15,"Metals",1574,"Copper and articles thereof",157409,"Copper Plating",2022,1,"Q1",1,"January",202201,1414060.1199999999
+15,"Metals",1574,"Copper and articles thereof",157410,"Copper Foil",2022,1,"Q1",1,"January",202201,259138.03
+15,"Metals",1574,"Copper and articles thereof",157411,"Copper Pipes",2022,1,"Q1",1,"January",202201,491257.43999999994
+15,"Metals",1574,"Copper and articles thereof",157412,"Copper Pipe Fittings",2022,1,"Q1",1,"January",202201,827254.4699999999
+15,"Metals",1574,"Copper and articles thereof",157413,"Stranded Copper Wire",2022,1,"Q1",1,"January",202201,26625.980000000003
+15,"Metals",1574,"Copper and articles thereof",157415,"Copper Fasteners",2022,1,"Q1",1,"January",202201,86219.03
+15,"Metals",1574,"Copper and articles thereof",157418,"Copper Housewares",2022,1,"Q1",1,"January",202201,85730.44
+15,"Metals",1575,"Nickel and articles thereof",157502,"Raw Nickel",2022,1,"Q1",1,"January",202201,971601651.4
+15,"Metals",1575,"Nickel and articles thereof",157503,"Scrap Nickel",2022,1,"Q1",1,"January",202201,192544.44
+15,"Metals",1575,"Nickel and articles thereof",157504,"Nickel Powder",2022,1,"Q1",1,"January",202201,169676.53999999998
+15,"Metals",1575,"Nickel and articles thereof",157505,"Nickel Bars",2022,1,"Q1",1,"January",202201,1038592.78
+15,"Metals",1575,"Nickel and articles thereof",157506,"Nickel Sheets",2022,1,"Q1",1,"January",202201,834061.77
+15,"Metals",1575,"Nickel and articles thereof",157507,"Nickel Pipes",2022,1,"Q1",1,"January",202201,54551.909999999996
+15,"Metals",1575,"Nickel and articles thereof",157508,"Other Nickel Products",2022,1,"Q1",1,"January",202201,2988861.4799999995
+15,"Metals",1576,"Aluminium and articles thereof",157601,"Raw Aluminium",2022,1,"Q1",1,"January",202201,405856375.93999994
+15,"Metals",1576,"Aluminium and articles thereof",157602,"Scrap Aluminium",2022,1,"Q1",1,"January",202201,102596.28
+15,"Metals",1576,"Aluminium and articles thereof",157603,"Aluminium Powder",2022,1,"Q1",1,"January",202201,3791840.5399999996
+15,"Metals",1576,"Aluminium and articles thereof",157604,"Aluminium Bars",2022,1,"Q1",1,"January",202201,26716489.56
+15,"Metals",1576,"Aluminium and articles thereof",157605,"Aluminium Wire",2022,1,"Q1",1,"January",202201,68193531.72999999
+15,"Metals",1576,"Aluminium and articles thereof",157606,"Aluminium Plating",2022,1,"Q1",1,"January",202201,18995680.909999993
+15,"Metals",1576,"Aluminium and articles thereof",157607,"Aluminium Foil",2022,1,"Q1",1,"January",202201,7125241.460000002
+15,"Metals",1576,"Aluminium and articles thereof",157608,"Aluminium Pipes",2022,1,"Q1",1,"January",202201,2385662.7700000005
+15,"Metals",1576,"Aluminium and articles thereof",157609,"Aluminium Pipe Fittings",2022,1,"Q1",1,"January",202201,58017.24
+15,"Metals",1576,"Aluminium and articles thereof",157610,"Aluminium Structures",2022,1,"Q1",1,"January",202201,3131244.62
+15,"Metals",1576,"Aluminium and articles thereof",157612,"Aluminium Cans",2022,1,"Q1",1,"January",202201,6962723.160000002
+15,"Metals",1576,"Aluminium and articles thereof",157613,"Aluminium Gas Containers",2022,1,"Q1",1,"January",202201,68485.28
+15,"Metals",1576,"Aluminium and articles thereof",157614,"Stranded Aluminium Wire",2022,1,"Q1",1,"January",202201,173824.94
+15,"Metals",1576,"Aluminium and articles thereof",157615,"Aluminium Housewares",2022,1,"Q1",1,"January",202201,3816613.6800000016
+15,"Metals",1576,"Aluminium and articles thereof",157616,"Other Aluminium Products",2022,1,"Q1",1,"January",202201,5547531.079999996
+15,"Metals",1578,"Lead and articles thereof",157801,"Raw Lead",2022,1,"Q1",1,"January",202201,18767774.6
+15,"Metals",1578,"Lead and articles thereof",157802,"Scrap Lead",2022,1,"Q1",1,"January",202201,10623.28
+15,"Metals",1578,"Lead and articles thereof",157804,"Lead Sheets",2022,1,"Q1",1,"January",202201,242579.11000000002
+15,"Metals",1578,"Lead and articles thereof",157806,"Other Lead Products",2022,1,"Q1",1,"January",202201,85070.46000000002
+15,"Metals",1579,"Zinc and articles thereof",157901,"Raw Zinc",2022,1,"Q1",1,"January",202201,214950.71
+15,"Metals",1579,"Zinc and articles thereof",157902,"Scrap Waste",2022,1,"Q1",1,"January",202201,259542.4
+15,"Metals",1579,"Zinc and articles thereof",157903,"Zinc Powder",2022,1,"Q1",1,"January",202201,85709.89999999998
+15,"Metals",1579,"Zinc and articles thereof",157904,"Zinc Bars",2022,1,"Q1",1,"January",202201,16401.190000000002
+15,"Metals",1579,"Zinc and articles thereof",157905,"Zinc Sheets",2022,1,"Q1",1,"January",202201,10145.59
+15,"Metals",1579,"Zinc and articles thereof",157907,"Other Zinc Products",2022,1,"Q1",1,"January",202201,98526.20999999998
+15,"Metals",1580,"Tin; articles thereof",158001,"Raw Tin",2022,1,"Q1",1,"January",202201,1581328.12
+15,"Metals",1580,"Tin; articles thereof",158003,"Tin Bars",2022,1,"Q1",1,"January",202201,61041.94
+15,"Metals",1580,"Tin; articles thereof",158007,"Other Tin Products",2022,1,"Q1",1,"January",202201,208928.41999999998
+15,"Metals",1581,"Metals; n.e.s., cermets and articles thereof",158101,"Tungsten",2022,1,"Q1",1,"January",202201,85859.65
+15,"Metals",1581,"Metals; n.e.s., cermets and articles thereof",158102,"Molybdenum",2022,1,"Q1",1,"January",202201,1046169.69
+15,"Metals",1581,"Metals; n.e.s., cermets and articles thereof",158103,"Tantalum",2022,1,"Q1",1,"January",202201,24682.06
+15,"Metals",1581,"Metals; n.e.s., cermets and articles thereof",158104,"Magnesium",2022,1,"Q1",1,"January",202201,6500547.78
+15,"Metals",1581,"Metals; n.e.s., cermets and articles thereof",158105,"Cobalt",2022,1,"Q1",1,"January",202201,36627.77
+15,"Metals",1581,"Metals; n.e.s., cermets and articles thereof",158108,"Titanium",2022,1,"Q1",1,"January",202201,29419186.58000001
+15,"Metals",1581,"Metals; n.e.s., cermets and articles thereof",158110,"Antimony",2022,1,"Q1",1,"January",202201,1199533.8199999998
+15,"Metals",1581,"Metals; n.e.s., cermets and articles thereof",158112,"Other Metals",2022,1,"Q1",1,"January",202201,18091617.610000003
+15,"Metals",1581,"Metals; n.e.s., cermets and articles thereof",158113,"Cermets",2022,1,"Q1",1,"January",202201,78148.28
+15,"Metals",1582,"Tools and cutlery",158201,"Garden Tools",2022,1,"Q1",1,"January",202201,531971.18
+15,"Metals",1582,"Tools and cutlery",158202,"Hand Saws",2022,1,"Q1",1,"January",202201,281495.45
+15,"Metals",1582,"Tools and cutlery",158203,"Hand Tools",2022,1,"Q1",1,"January",202201,362552.57000000007
+15,"Metals",1582,"Tools and cutlery",158204,"Wrenches",2022,1,"Q1",1,"January",202201,778255.0799999998
+15,"Metals",1582,"Tools and cutlery",158205,"Other Hand Tools",2022,1,"Q1",1,"January",202201,1755606.73
+15,"Metals",1582,"Tools and cutlery",158206,"Tool Sets",2022,1,"Q1",1,"January",202201,511834.3400000001
+15,"Metals",1582,"Tools and cutlery",158207,"Interchangeable Tool Parts",2022,1,"Q1",1,"January",202201,4998194.68
+15,"Metals",1582,"Tools and cutlery",158208,"Cutting Blades",2022,1,"Q1",1,"January",202201,504892.89
+15,"Metals",1582,"Tools and cutlery",158209,"Tool Plates",2022,1,"Q1",1,"January",202201,724166.45
+15,"Metals",1582,"Tools and cutlery",158210,"Cooking Hand Tools",2022,1,"Q1",1,"January",202201,75378.95000000004
+15,"Metals",1582,"Tools and cutlery",158211,"Knives",2022,1,"Q1",1,"January",202201,485633.13999999996
+15,"Metals",1582,"Tools and cutlery",158212,"Razor Blades",2022,1,"Q1",1,"January",202201,2489281.46
+15,"Metals",1582,"Tools and cutlery",158213,"Scissors",2022,1,"Q1",1,"January",202201,73007.35
+15,"Metals",1582,"Tools and cutlery",158214,"Other Cutlery",2022,1,"Q1",1,"January",202201,189174.57
+15,"Metals",1582,"Tools and cutlery",158215,"Cutlery Sets",2022,1,"Q1",1,"January",202201,219863.08999999997
+15,"Metals",1583,"Metal; miscellaneous products of base metal",158301,"Padlocks",2022,1,"Q1",1,"January",202201,1249290.68
+15,"Metals",1583,"Metal; miscellaneous products of base metal",158302,"Metal Mountings",2022,1,"Q1",1,"January",202201,5853005.4799999995
+15,"Metals",1583,"Metal; miscellaneous products of base metal",158303,"Safes",2022,1,"Q1",1,"January",202201,383256.03
+15,"Metals",1583,"Metal; miscellaneous products of base metal",158304,"Filing Cabinets",2022,1,"Q1",1,"January",202201,5893.990000000001
+15,"Metals",1583,"Metal; miscellaneous products of base metal",158305,"Metal Office Supplies",2022,1,"Q1",1,"January",202201,598781.01
+15,"Metals",1583,"Metal; miscellaneous products of base metal",158306,"Bells and Other Metal Ornaments",2022,1,"Q1",1,"January",202201,201994.28999999998
+15,"Metals",1583,"Metal; miscellaneous products of base metal",158307,"Flexible Metal Tubing",2022,1,"Q1",1,"January",202201,606297.1900000002
+15,"Metals",1583,"Metal; miscellaneous products of base metal",158308,"Other Metal Fasteners",2022,1,"Q1",1,"January",202201,237058.07999999996
+15,"Metals",1583,"Metal; miscellaneous products of base metal",158309,"Metal Stoppers",2022,1,"Q1",1,"January",202201,5425611.329999998
+15,"Metals",1583,"Metal; miscellaneous products of base metal",158310,"Metal Signs",2022,1,"Q1",1,"January",202201,48220.1
+15,"Metals",1583,"Metal; miscellaneous products of base metal",158311,"Coated Metal Soldering Products",2022,1,"Q1",1,"January",202201,2005418.15
+16,"Machines",1684,"Machinery and appliances",168401,"Nuclear Reactors",2022,1,"Q1",1,"January",202201,63551443.489999995
+16,"Machines",1684,"Machinery and appliances",168402,"Steam Boilers",2022,1,"Q1",1,"January",202201,3407391.72
+16,"Machines",1684,"Machinery and appliances",168403,"Central Heating Boilers",2022,1,"Q1",1,"January",202201,1667970.74
+16,"Machines",1684,"Machinery and appliances",168404,"Boiler Plants",2022,1,"Q1",1,"January",202201,1424081.75
+16,"Machines",1684,"Machinery and appliances",168405,"Water and Gas Generators",2022,1,"Q1",1,"January",202201,47900.42
+16,"Machines",1684,"Machinery and appliances",168406,"Steam Turbines",2022,1,"Q1",1,"January",202201,1622654.9499999997
+16,"Machines",1684,"Machinery and appliances",168407,"Spark-Ignition Engines",2022,1,"Q1",1,"January",202201,8569595.139999999
+16,"Machines",1684,"Machinery and appliances",168408,"Combustion Engines",2022,1,"Q1",1,"January",202201,10309365.470000003
+16,"Machines",1684,"Machinery and appliances",168409,"Engine Parts",2022,1,"Q1",1,"January",202201,6869630.860000002
+16,"Machines",1684,"Machinery and appliances",168410,"Hydraulic Turbines",2022,1,"Q1",1,"January",202201,677692.39
+16,"Machines",1684,"Machinery and appliances",168411,"Gas Turbines",2022,1,"Q1",1,"January",202201,169304259.83999997
+16,"Machines",1684,"Machinery and appliances",168412,"Other Engines",2022,1,"Q1",1,"January",202201,8386693.280000001
+16,"Machines",1684,"Machinery and appliances",168413,"Liquid Pumps",2022,1,"Q1",1,"January",202201,21453305.849999994
+16,"Machines",1684,"Machinery and appliances",168414,"Air Pumps",2022,1,"Q1",1,"January",202201,8211274.800000001
+16,"Machines",1684,"Machinery and appliances",168415,"Air Conditioners",2022,1,"Q1",1,"January",202201,3017198.539999999
+16,"Machines",1684,"Machinery and appliances",168416,"Liquid Fuel Furnaces",2022,1,"Q1",1,"January",202201,227105.23
+16,"Machines",1684,"Machinery and appliances",168417,"Industrial Furnaces",2022,1,"Q1",1,"January",202201,567907.99
+16,"Machines",1684,"Machinery and appliances",168418,"Refrigerators",2022,1,"Q1",1,"January",202201,30464336.890000004
+16,"Machines",1684,"Machinery and appliances",168419,"Other Heating Machinery",2022,1,"Q1",1,"January",202201,26236414.290000018
+16,"Machines",1684,"Machinery and appliances",168420,"Rolling Machines",2022,1,"Q1",1,"January",202201,221207.5
+16,"Machines",1684,"Machinery and appliances",168421,"Centrifuges",2022,1,"Q1",1,"January",202201,14021626.8
+16,"Machines",1684,"Machinery and appliances",168422,"Washing and Bottling Machines",2022,1,"Q1",1,"January",202201,4015487.85
+16,"Machines",1684,"Machinery and appliances",168423,"Scales",2022,1,"Q1",1,"January",202201,865808.2800000001
+16,"Machines",1684,"Machinery and appliances",168424,"Liquid Dispersing Machines",2022,1,"Q1",1,"January",202201,3888290.6600000006
+16,"Machines",1684,"Machinery and appliances",168425,"Pulley Systems",2022,1,"Q1",1,"January",202201,2369105.05
+16,"Machines",1684,"Machinery and appliances",168426,"Cranes",2022,1,"Q1",1,"January",202201,1671639.0200000003
+16,"Machines",1684,"Machinery and appliances",168427,"Fork-Lifts",2022,1,"Q1",1,"January",202201,411838.43999999994
+16,"Machines",1684,"Machinery and appliances",168428,"Lifting Machinery",2022,1,"Q1",1,"January",202201,5613804.959999998
+16,"Machines",1684,"Machinery and appliances",168429,"Large Construction Vehicles",2022,1,"Q1",1,"January",202201,2263889.05
+16,"Machines",1684,"Machinery and appliances",168430,"Other Construction Vehicles",2022,1,"Q1",1,"January",202201,621628.01
+16,"Machines",1684,"Machinery and appliances",168431,"Excavation Machinery",2022,1,"Q1",1,"January",202201,15653916.92
+16,"Machines",1684,"Machinery and appliances",168432,"Soil Preparation Machinery",2022,1,"Q1",1,"January",202201,7754027.04
+16,"Machines",1684,"Machinery and appliances",168433,"Harvesting Machinery",2022,1,"Q1",1,"January",202201,9379521.36
+16,"Machines",1684,"Machinery and appliances",168434,"Dairy Machinery",2022,1,"Q1",1,"January",202201,158889.86
+16,"Machines",1684,"Machinery and appliances",168435,"Fruit Pressing Machinery",2022,1,"Q1",1,"January",202201,1990.49
+16,"Machines",1684,"Machinery and appliances",168436,"Other Agricultural Machinery",2022,1,"Q1",1,"January",202201,3072070.0999999996
+16,"Machines",1684,"Machinery and appliances",168437,"Mill Machinery",2022,1,"Q1",1,"January",202201,501453.38
+16,"Machines",1684,"Machinery and appliances",168438,"Industrial Food Preperation Machinery",2022,1,"Q1",1,"January",202201,1840541.3499999999
+16,"Machines",1684,"Machinery and appliances",168439,"Papermaking Machines",2022,1,"Q1",1,"January",202201,102664.93
+16,"Machines",1684,"Machinery and appliances",168440,"Book-binding Machines",2022,1,"Q1",1,"January",202201,40683.51999999999
+16,"Machines",1684,"Machinery and appliances",168441,"Other Paper Machinery",2022,1,"Q1",1,"January",202201,177579.86
+16,"Machines",1684,"Machinery and appliances",168442,"Print Production Machinery",2022,1,"Q1",1,"January",202201,156077.72999999998
+16,"Machines",1684,"Machinery and appliances",168443,"Industrial Printers",2022,1,"Q1",1,"January",202201,3268519.1799999997
+16,"Machines",1684,"Machinery and appliances",168445,"Textile Fiber Machinery",2022,1,"Q1",1,"January",202201,34120.33
+16,"Machines",1684,"Machinery and appliances",168446,"Looms",2022,1,"Q1",1,"January",202201,213872.38
+16,"Machines",1684,"Machinery and appliances",168447,"Knitting Machines",2022,1,"Q1",1,"January",202201,76056.26000000001
+16,"Machines",1684,"Machinery and appliances",168448,"Knitting Machine Accessories",2022,1,"Q1",1,"January",202201,173962.4
+16,"Machines",1684,"Machinery and appliances",168450,"Household Washing Machines",2022,1,"Q1",1,"January",202201,29158907.05
+16,"Machines",1684,"Machinery and appliances",168451,"Textile Processing Machines",2022,1,"Q1",1,"January",202201,558922.4400000001
+16,"Machines",1684,"Machinery and appliances",168452,"Sewing Machines",2022,1,"Q1",1,"January",202201,638474.61
+16,"Machines",1684,"Machinery and appliances",168453,"Leather Machinery",2022,1,"Q1",1,"January",202201,3472.6100000000006
+16,"Machines",1684,"Machinery and appliances",168454,"Casting Machines",2022,1,"Q1",1,"January",202201,352576.75
+16,"Machines",1684,"Machinery and appliances",168455,"Metal-Rolling Mills",2022,1,"Q1",1,"January",202201,2265531.88
+16,"Machines",1684,"Machinery and appliances",168456,"Non-Mechanical Removal Machinery",2022,1,"Q1",1,"January",202201,151340.08
+16,"Machines",1684,"Machinery and appliances",168457,"Metalworking Transfer Machines",2022,1,"Q1",1,"January",202201,389313.57999999996
+16,"Machines",1684,"Machinery and appliances",168458,"Metal Lathes",2022,1,"Q1",1,"January",202201,1298968.68
+16,"Machines",1684,"Machinery and appliances",168459,"Drilling Machines",2022,1,"Q1",1,"January",202201,2050018.32
+16,"Machines",1684,"Machinery and appliances",168460,"Metal Finishing Machines",2022,1,"Q1",1,"January",202201,1201509.46
+16,"Machines",1684,"Machinery and appliances",168461,"Metalworking Machines",2022,1,"Q1",1,"January",202201,244891.84
+16,"Machines",1684,"Machinery and appliances",168462,"Forging Machines",2022,1,"Q1",1,"January",202201,2594762.22
+16,"Machines",1684,"Machinery and appliances",168463,"Other Non-Metal Removal Machinery",2022,1,"Q1",1,"January",202201,576933.98
+16,"Machines",1684,"Machinery and appliances",168464,"Stone Working Machines",2022,1,"Q1",1,"January",202201,112422.51
+16,"Machines",1684,"Machinery and appliances",168465,"Woodworking machines",2022,1,"Q1",1,"January",202201,910891.7299999999
+16,"Machines",1684,"Machinery and appliances",168466,"Metalworking Machine Parts",2022,1,"Q1",1,"January",202201,303975.12999999995
+16,"Machines",1684,"Machinery and appliances",168467,"Motor-working Tools",2022,1,"Q1",1,"January",202201,5122861.649999999
+16,"Machines",1684,"Machinery and appliances",168468,"Soldering and Welding Machinery",2022,1,"Q1",1,"January",202201,129572.47
+16,"Machines",1684,"Machinery and appliances",168470,"Calculators",2022,1,"Q1",1,"January",202201,1710010.5099999998
+16,"Machines",1684,"Machinery and appliances",168471,"Computers",2022,1,"Q1",1,"January",202201,29405552.95999999
+16,"Machines",1684,"Machinery and appliances",168472,"Other Office Machines",2022,1,"Q1",1,"January",202201,511351.18
+16,"Machines",1684,"Machinery and appliances",168473,"Office Machine Parts",2022,1,"Q1",1,"January",202201,4212368.910000001
+16,"Machines",1684,"Machinery and appliances",168474,"Stone Processing Machines",2022,1,"Q1",1,"January",202201,7195352.159999998
+16,"Machines",1684,"Machinery and appliances",168475,"Glass Working Machines",2022,1,"Q1",1,"January",202201,8578.96
+16,"Machines",1684,"Machinery and appliances",168476,"Vending Machines",2022,1,"Q1",1,"January",202201,380219.9099999999
+16,"Machines",1684,"Machinery and appliances",168477,"Rubberworking Machinery",2022,1,"Q1",1,"January",202201,2434991.74
+16,"Machines",1684,"Machinery and appliances",168478,"Tobacco Processing Machines",2022,1,"Q1",1,"January",202201,128951.80999999998
+16,"Machines",1684,"Machinery and appliances",168479,"Machinery Having Individual Functions",2022,1,"Q1",1,"January",202201,10880463.670000002
+16,"Machines",1684,"Machinery and appliances",168480,"Metal Molds",2022,1,"Q1",1,"January",202201,1090294.34
+16,"Machines",1684,"Machinery and appliances",168481,"Valves",2022,1,"Q1",1,"January",202201,32640489.930000022
+16,"Machines",1684,"Machinery and appliances",168482,"Ball Bearings",2022,1,"Q1",1,"January",202201,10262986
+16,"Machines",1684,"Machinery and appliances",168483,"Transmissions",2022,1,"Q1",1,"January",202201,8145558.37
+16,"Machines",1684,"Machinery and appliances",168484,"Gaskets",2022,1,"Q1",1,"January",202201,1130700.7799999998
+16,"Machines",1684,"Machinery and appliances",168486,"Machines and apparatus of a kind used solely or principally for the manufacture of semiconductor boules or wafers, semiconductor devices, electronic integrated circuits or flat panel displays",2022,1,"Q1",1,"January",202201,104518.20999999999
+16,"Machines",1684,"Machinery and appliances",168487,"Machinery parts, not containing electrical connectors, insulators, coils, contacts or other electrical features, not specified or included elsewhere in this Chapter.",2022,1,"Q1",1,"January",202201,124118.05999999998
+16,"Machines",1685,"Electrical machinery and equipment",168501,"Electric Motors",2022,1,"Q1",1,"January",202201,22604232.189999998
+16,"Machines",1685,"Electrical machinery and equipment",168502,"Electric Generating Sets",2022,1,"Q1",1,"January",202201,1556976.71
+16,"Machines",1685,"Electrical machinery and equipment",168503,"Electric Motor Parts",2022,1,"Q1",1,"January",202201,1809861.1999999997
+16,"Machines",1685,"Electrical machinery and equipment",168504,"Electrical Transformers",2022,1,"Q1",1,"January",202201,12509067.640000004
+16,"Machines",1685,"Electrical machinery and equipment",168505,"Electromagnets",2022,1,"Q1",1,"January",202201,1026925.6800000003
+16,"Machines",1685,"Electrical machinery and equipment",168506,"Batteries",2022,1,"Q1",1,"January",202201,526850.09
+16,"Machines",1685,"Electrical machinery and equipment",168507,"Electric Batteries",2022,1,"Q1",1,"January",202201,3163746.2500000005
+16,"Machines",1685,"Electrical machinery and equipment",168508,"Vacuum Cleaners",2022,1,"Q1",1,"January",202201,4967507.649999999
+16,"Machines",1685,"Electrical machinery and equipment",168509,"Other Domestic Electric Housewares",2022,1,"Q1",1,"January",202201,4164701.740000001
+16,"Machines",1685,"Electrical machinery and equipment",168510,"Hair Trimmers",2022,1,"Q1",1,"January",202201,1177748.7899999998
+16,"Machines",1685,"Electrical machinery and equipment",168511,"Electrical Ignitions",2022,1,"Q1",1,"January",202201,10742281.750000002
+16,"Machines",1685,"Electrical machinery and equipment",168512,"Electrical Lighting and Signalling Equipment",2022,1,"Q1",1,"January",202201,2947422.4100000006
+16,"Machines",1685,"Electrical machinery and equipment",168513,"Portable Lighting",2022,1,"Q1",1,"January",202201,283049.44
+16,"Machines",1685,"Electrical machinery and equipment",168514,"Electric Furnaces",2022,1,"Q1",1,"January",202201,340273.0399999999
+16,"Machines",1685,"Electrical machinery and equipment",168515,"Electric Soldering Equipment",2022,1,"Q1",1,"January",202201,1981212.66
+16,"Machines",1685,"Electrical machinery and equipment",168516,"Electric Heaters",2022,1,"Q1",1,"January",202201,18624240.869999997
+16,"Machines",1685,"Electrical machinery and equipment",168517,"Telephones",2022,1,"Q1",1,"January",202201,10423615.230000002
+16,"Machines",1685,"Electrical machinery and equipment",168518,"Microphones and Headphones",2022,1,"Q1",1,"January",202201,3290924.1300000004
+16,"Machines",1685,"Electrical machinery and equipment",168519,"Sound Recording Equipment",2022,1,"Q1",1,"January",202201,272797.12
+16,"Machines",1685,"Electrical machinery and equipment",168521,"Video Recording Equipment",2022,1,"Q1",1,"January",202201,258003.85000000003
+16,"Machines",1685,"Electrical machinery and equipment",168522,"Audio and Video Recording Accessories",2022,1,"Q1",1,"January",202201,2885.95
+16,"Machines",1685,"Electrical machinery and equipment",168523,"Blank Audio Media",2022,1,"Q1",1,"January",202201,13377765.169999998
+16,"Machines",1685,"Electrical machinery and equipment",168524,"Sound Recordings",2022,1,"Q1",1,"January",202201,117843.66
+16,"Machines",1685,"Electrical machinery and equipment",168525,"Broadcasting Equipment",2022,1,"Q1",1,"January",202201,487343.3
+16,"Machines",1685,"Electrical machinery and equipment",168526,"Navigation Equipment",2022,1,"Q1",1,"January",202201,7304098.82
+16,"Machines",1685,"Electrical machinery and equipment",168527,"Radio Receivers",2022,1,"Q1",1,"January",202201,781444.7
+16,"Machines",1685,"Electrical machinery and equipment",168528,"Video Displays",2022,1,"Q1",1,"January",202201,32734897.000000004
+16,"Machines",1685,"Electrical machinery and equipment",168529,"Broadcasting Accessories",2022,1,"Q1",1,"January",202201,16480221.84
+16,"Machines",1685,"Electrical machinery and equipment",168530,"Traffic Signals",2022,1,"Q1",1,"January",202201,430329.05000000005
+16,"Machines",1685,"Electrical machinery and equipment",168531,"Audio Alarms",2022,1,"Q1",1,"January",202201,3445210.7900000005
+16,"Machines",1685,"Electrical machinery and equipment",168532,"Electrical Capacitors",2022,1,"Q1",1,"January",202201,230301.32
+16,"Machines",1685,"Electrical machinery and equipment",168533,"Electrical Resistors",2022,1,"Q1",1,"January",202201,273296.8
+16,"Machines",1685,"Electrical machinery and equipment",168534,"Printed Circuit Boards",2022,1,"Q1",1,"January",202201,199973.88
+16,"Machines",1685,"Electrical machinery and equipment",168535,"High-voltage Protection Equipment",2022,1,"Q1",1,"January",202201,3386800.4999999995
+16,"Machines",1685,"Electrical machinery and equipment",168536,"Low-voltage Protection Equipment",2022,1,"Q1",1,"January",202201,9568615.02
+16,"Machines",1685,"Electrical machinery and equipment",168537,"Electrical Control Boards",2022,1,"Q1",1,"January",202201,35894863
+16,"Machines",1685,"Electrical machinery and equipment",168538,"Electrical Power Accessories",2022,1,"Q1",1,"January",202201,3095558.130000001
+16,"Machines",1685,"Electrical machinery and equipment",168539,"Electric Filament",2022,1,"Q1",1,"January",202201,3757026.5099999993
+16,"Machines",1685,"Electrical machinery and equipment",168540,"Cathode Tubes",2022,1,"Q1",1,"January",202201,2366523.65
+16,"Machines",1685,"Electrical machinery and equipment",168541,"Semiconductor Devices",2022,1,"Q1",1,"January",202201,2079455.6900000002
+16,"Machines",1685,"Electrical machinery and equipment",168542,"Integrated Circuits",2022,1,"Q1",1,"January",202201,3765269.1999999997
+16,"Machines",1685,"Electrical machinery and equipment",168543,"Other Electrical Machinery",2022,1,"Q1",1,"January",202201,5005094.59
+16,"Machines",1685,"Electrical machinery and equipment",168544,"Insulated Wire",2022,1,"Q1",1,"January",202201,34165934.06
+16,"Machines",1685,"Electrical machinery and equipment",168545,"Carbon-based Electronics",2022,1,"Q1",1,"January",202201,12813953.91
+16,"Machines",1685,"Electrical machinery and equipment",168546,"Electrical Insulators",2022,1,"Q1",1,"January",202201,1917263.54
+16,"Machines",1685,"Electrical machinery and equipment",168547,"Metal Insulating Fittings",2022,1,"Q1",1,"January",202201,334315.20999999996
+16,"Machines",1685,"Electrical machinery and equipment",168548,"Electrical Parts",2022,1,"Q1",1,"January",202201,594.16
+17,"Transportation",1786,"Railway and other rolling stock",178602,"Other Locomotives",2022,1,"Q1",1,"January",202201,8454742.83
+17,"Transportation",1786,"Railway and other rolling stock",178604,"Railway Maintenance Vehicles",2022,1,"Q1",1,"January",202201,85310
+17,"Transportation",1786,"Railway and other rolling stock",178605,"Railway Passenger Cars",2022,1,"Q1",1,"January",202201,3178081.72
+17,"Transportation",1786,"Railway and other rolling stock",178606,"Railway Freight Cars",2022,1,"Q1",1,"January",202201,9142226.16
+17,"Transportation",1786,"Railway and other rolling stock",178607,"Locomotive Parts",2022,1,"Q1",1,"January",202201,15329269.509999998
+17,"Transportation",1786,"Railway and other rolling stock",178608,"Railway Track Fixtures",2022,1,"Q1",1,"January",202201,3698001.0899999994
+17,"Transportation",1786,"Railway and other rolling stock",178609,"Shipping containers",2022,1,"Q1",1,"January",202201,224510.68
+17,"Transportation",1787,"Vehicles and their parts",178701,"Tractors",2022,1,"Q1",1,"January",202201,1531024.3599999999
+17,"Transportation",1787,"Vehicles and their parts",178702,"Buses",2022,1,"Q1",1,"January",202201,2205145.6799999997
+17,"Transportation",1787,"Vehicles and their parts",178703,"Cars",2022,1,"Q1",1,"January",202201,77831004.54
+17,"Transportation",1787,"Vehicles and their parts",178704,"Delivery Trucks",2022,1,"Q1",1,"January",202201,14812975.550000003
+17,"Transportation",1787,"Vehicles and their parts",178705,"Specialized Vehicles",2022,1,"Q1",1,"January",202201,5799230.109999999
+17,"Transportation",1787,"Vehicles and their parts",178706,"Vehicle Chassis",2022,1,"Q1",1,"January",202201,1827035.48
+17,"Transportation",1787,"Vehicles and their parts",178707,"Vehicle Bodies",2022,1,"Q1",1,"January",202201,17585399.13
+17,"Transportation",1787,"Vehicles and their parts",178708,"Vehicle Parts",2022,1,"Q1",1,"January",202201,42833279.86999999
+17,"Transportation",1787,"Vehicles and their parts",178709,"Work Trucks",2022,1,"Q1",1,"January",202201,95405.25
+17,"Transportation",1787,"Vehicles and their parts",178711,"Motorcycles",2022,1,"Q1",1,"January",202201,911527.45
+17,"Transportation",1787,"Vehicles and their parts",178712,"Bicycles",2022,1,"Q1",1,"January",202201,756514.57
+17,"Transportation",1787,"Vehicles and their parts",178713,"Wheelchairs",2022,1,"Q1",1,"January",202201,67861.94
+17,"Transportation",1787,"Vehicles and their parts",178714,"Bi-Wheel Vehicle Parts",2022,1,"Q1",1,"January",202201,342686.29000000004
+17,"Transportation",1787,"Vehicles and their parts",178716,"Trailers",2022,1,"Q1",1,"January",202201,5554352.680000001
+17,"Transportation",1789,"Ships, boats and floating structures",178901,"Passenger and Cargo Ships",2022,1,"Q1",1,"January",202201,163872265.85
+17,"Transportation",1789,"Ships, boats and floating structures",178902,"Fishing Ships",2022,1,"Q1",1,"January",202201,1000000
+17,"Transportation",1789,"Ships, boats and floating structures",178903,"Recreational Boats",2022,1,"Q1",1,"January",202201,243489.03
+17,"Transportation",1789,"Ships, boats and floating structures",178907,"Other Floating Structures",2022,1,"Q1",1,"January",202201,1575604.04
+18,"Instruments",1890,"Instruments and apparatus",189001,"Optical Fibers",2022,1,"Q1",1,"January",202201,1713877.45
+18,"Instruments",1890,"Instruments and apparatus",189002,"Mirrors and Lenses",2022,1,"Q1",1,"January",202201,460739.62
+18,"Instruments",1890,"Instruments and apparatus",189003,"Eyewear Frames",2022,1,"Q1",1,"January",202201,64747.53999999999
+18,"Instruments",1890,"Instruments and apparatus",189004,"Eyewear",2022,1,"Q1",1,"January",202201,438531.02999999997
+18,"Instruments",1890,"Instruments and apparatus",189005,"Binoculars and Telescopes",2022,1,"Q1",1,"January",202201,86584.17
+18,"Instruments",1890,"Instruments and apparatus",189006,"Cameras",2022,1,"Q1",1,"January",202201,220489.11000000002
+18,"Instruments",1890,"Instruments and apparatus",189007,"Video Cameras",2022,1,"Q1",1,"January",202201,450
+18,"Instruments",1890,"Instruments and apparatus",189008,"Image Projectors",2022,1,"Q1",1,"January",202201,6548.280000000001
+18,"Instruments",1890,"Instruments and apparatus",189010,"Photo Lab Equipment",2022,1,"Q1",1,"January",202201,16094.25
+18,"Instruments",1890,"Instruments and apparatus",189011,"Microscopes",2022,1,"Q1",1,"January",202201,164301.11999999997
+18,"Instruments",1890,"Instruments and apparatus",189012,"Non-optical Microscopes",2022,1,"Q1",1,"January",202201,45913.149999999994
+18,"Instruments",1890,"Instruments and apparatus",189013,"LCDs",2022,1,"Q1",1,"January",202201,19706796.58
+18,"Instruments",1890,"Instruments and apparatus",189014,"Compasses",2022,1,"Q1",1,"January",202201,3511988.66
+18,"Instruments",1890,"Instruments and apparatus",189015,"Surveying Equipment",2022,1,"Q1",1,"January",202201,1305237.8699999999
+18,"Instruments",1890,"Instruments and apparatus",189016,"Balances",2022,1,"Q1",1,"January",202201,13668.269999999997
+18,"Instruments",1890,"Instruments and apparatus",189017,"Drafting Tools",2022,1,"Q1",1,"January",202201,359939.56
+18,"Instruments",1890,"Instruments and apparatus",189018,"Medical Instruments",2022,1,"Q1",1,"January",202201,7458420.139999997
+18,"Instruments",1890,"Instruments and apparatus",189019,"Therapeutic Appliances",2022,1,"Q1",1,"January",202201,1829931.1199999996
+18,"Instruments",1890,"Instruments and apparatus",189020,"Breathing Appliances",2022,1,"Q1",1,"January",202201,579130.5199999998
+18,"Instruments",1890,"Instruments and apparatus",189021,"Orthopedic Appliances",2022,1,"Q1",1,"January",202201,1942246.2
+18,"Instruments",1890,"Instruments and apparatus",189022,"X-Ray Equipment",2022,1,"Q1",1,"January",202201,2164306.1500000004
+18,"Instruments",1890,"Instruments and apparatus",189023,"Instructional Models",2022,1,"Q1",1,"January",202201,545187.46
+18,"Instruments",1890,"Instruments and apparatus",189024,"Tensile Testing Machines",2022,1,"Q1",1,"January",202201,266452.32999999996
+18,"Instruments",1890,"Instruments and apparatus",189025,"Hydrometers",2022,1,"Q1",1,"January",202201,1192186.69
+18,"Instruments",1890,"Instruments and apparatus",189026,"Gas and Liquid Flow Measuring Instruments",2022,1,"Q1",1,"January",202201,10081259.419999996
+18,"Instruments",1890,"Instruments and apparatus",189027,"Chemical Analysis Instruments",2022,1,"Q1",1,"January",202201,4565503.95
+18,"Instruments",1890,"Instruments and apparatus",189028,"Utility Meters",2022,1,"Q1",1,"January",202201,2142977.8600000003
+18,"Instruments",1890,"Instruments and apparatus",189029,"Revolution Counters",2022,1,"Q1",1,"January",202201,829313.9599999997
+18,"Instruments",1890,"Instruments and apparatus",189030,"Oscilloscopes",2022,1,"Q1",1,"January",202201,5240295.29
+18,"Instruments",1890,"Instruments and apparatus",189031,"Other Measuring Instruments",2022,1,"Q1",1,"January",202201,10159336.65
+18,"Instruments",1890,"Instruments and apparatus",189032,"Thermostats",2022,1,"Q1",1,"January",202201,10597125.599999998
+18,"Instruments",1890,"Instruments and apparatus",189033,"Opto-Electric Instrument Parts",2022,1,"Q1",1,"January",202201,347685.07
+18,"Instruments",1891,"Clocks and watches",189101,"Precious Metal Watches",2022,1,"Q1",1,"January",202201,125806.42
+18,"Instruments",1891,"Clocks and watches",189102,"Base Metal Watches",2022,1,"Q1",1,"January",202201,521351.44000000006
+18,"Instruments",1891,"Clocks and watches",189103,"Clocks with Watch Movements",2022,1,"Q1",1,"January",202201,390.27
+18,"Instruments",1891,"Clocks and watches",189104,"Dashboard Clocks",2022,1,"Q1",1,"January",202201,58330.33
+18,"Instruments",1891,"Clocks and watches",189105,"Other Clocks",2022,1,"Q1",1,"January",202201,72203.08
+18,"Instruments",1891,"Clocks and watches",189106,"Time Recording Instruments",2022,1,"Q1",1,"January",202201,12741.110000000002
+18,"Instruments",1891,"Clocks and watches",189107,"Time Switches",2022,1,"Q1",1,"January",202201,9456.44
+18,"Instruments",1891,"Clocks and watches",189108,"Watch Movements",2022,1,"Q1",1,"January",202201,19.86
+18,"Instruments",1891,"Clocks and watches",189109,"Clock Movements",2022,1,"Q1",1,"January",202201,886.7499999999999
+18,"Instruments",1891,"Clocks and watches",189110,"Incomplete Movement Sets",2022,1,"Q1",1,"January",202201,6397.1
+18,"Instruments",1891,"Clocks and watches",189113,"Watch Straps",2022,1,"Q1",1,"January",202201,5950.360000000001
+18,"Instruments",1891,"Clocks and watches",189114,"Other Clocks and Watches",2022,1,"Q1",1,"January",202201,11419.699999999999
+18,"Instruments",1892,"Musical instruments",189202,"String Instruments",2022,1,"Q1",1,"January",202201,121710.56999999999
+18,"Instruments",1892,"Musical instruments",189205,"Wind Instruments",2022,1,"Q1",1,"January",202201,25188.04
+18,"Instruments",1892,"Musical instruments",189206,"Percussion",2022,1,"Q1",1,"January",202201,481607.97000000003
+18,"Instruments",1892,"Musical instruments",189207,"Electric Musical Instruments",2022,1,"Q1",1,"January",202201,386517.67999999993
+18,"Instruments",1892,"Musical instruments",189208,"Other Musical Instruments",2022,1,"Q1",1,"January",202201,4309.79
+18,"Instruments",1892,"Musical instruments",189209,"Musical Instrument Parts",2022,1,"Q1",1,"January",202201,47181.649999999994
+20,"Miscellaneous",2094,"Furniture",209401,"Seats",2022,1,"Q1",1,"January",202201,4977917.529999999
+20,"Miscellaneous",2094,"Furniture",209402,"Medical Furniture",2022,1,"Q1",1,"January",202201,144387.80999999997
+20,"Miscellaneous",2094,"Furniture",209403,"Other Furniture",2022,1,"Q1",1,"January",202201,20648218.400000002
+20,"Miscellaneous",2094,"Furniture",209404,"Mattresses",2022,1,"Q1",1,"January",202201,2165689.9699999997
+20,"Miscellaneous",2094,"Furniture",209405,"Light Fixtures",2022,1,"Q1",1,"January",202201,196818.70000000004
+20,"Miscellaneous",2094,"Furniture",209406,"Prefabricated Buildings",2022,1,"Q1",1,"January",202201,5884252.93
+20,"Miscellaneous",2095,"Toys and games",209503,"Models and Stuffed Animals",2022,1,"Q1",1,"January",202201,11334979.94000001
+20,"Miscellaneous",2095,"Toys and games",209504,"Video and Card Games",2022,1,"Q1",1,"January",202201,1324518.7000000002
+20,"Miscellaneous",2095,"Toys and games",209505,"Party Decorations",2022,1,"Q1",1,"January",202201,242882.81999999995
+20,"Miscellaneous",2095,"Toys and games",209506,"Sports Equipment",2022,1,"Q1",1,"January",202201,3697245.5100000007
+20,"Miscellaneous",2095,"Toys and games",209507,"Fishing and Hunting Equipment",2022,1,"Q1",1,"January",202201,948482.6799999999
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209601,"Worked Ivory and Bone",2022,1,"Q1",1,"January",202201,4718.09
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209602,"Vegetable and Mineral Carvings",2022,1,"Q1",1,"January",202201,153729.63
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209603,"Brooms",2022,1,"Q1",1,"January",202201,2934852.16
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209604,"Hand Sifters",2022,1,"Q1",1,"January",202201,45408.41
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209605,"Travel Kits",2022,1,"Q1",1,"January",202201,7528.699999999999
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209606,"Buttons",2022,1,"Q1",1,"January",202201,190105.25999999998
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209607,"Zippers",2022,1,"Q1",1,"January",202201,247846.54999999996
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209608,"Pens",2022,1,"Q1",1,"January",202201,769410.8299999998
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209609,"Pencils and Crayons",2022,1,"Q1",1,"January",202201,217862.30000000002
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209610,"Chalkboards",2022,1,"Q1",1,"January",202201,137650.02000000002
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209611,"Rubber Stamps",2022,1,"Q1",1,"January",202201,14677.240000000002
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209612,"Ink Ribbons",2022,1,"Q1",1,"January",202201,108013.38999999998
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209613,"Lighters",2022,1,"Q1",1,"January",202201,518295.22000000003
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209614,"Smoking Pipes",2022,1,"Q1",1,"January",202201,415468.68999999994
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209615,"Combs",2022,1,"Q1",1,"January",202201,451097.28
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209616,"Scent Sprays",2022,1,"Q1",1,"January",202201,65215.74
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209617,"Vacuum Flask",2022,1,"Q1",1,"January",202201,306211.0200000001
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209618,"Mannequins",2022,1,"Q1",1,"January",202201,45093.68
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209619,"Sanitary towels (pads) and tampons, napkins and napkin liners for babies and similar articles, of any material",2022,1,"Q1",1,"January",202201,19464574.93
+20,"Miscellaneous",2096,"Miscellaneous manufactured articles",209620,"Monopods, bipods, tripods and similar articles",2022,1,"Q1",1,"January",202201,50330.44999999999
+22,"Unspecified",2299,"Commodities not specified according to kind",229999,"Commodities not elsewhere specified",2022,1,"Q1",1,"January",202201,10314961755.519995
