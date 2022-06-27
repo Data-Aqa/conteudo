@@ -1,0 +1,3 @@
+#045cbc - azul 
+#fcd404 - amarelo
+#e6c100 - amarelo + escuro
