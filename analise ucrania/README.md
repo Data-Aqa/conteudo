@@ -1,5 +1,6 @@
 # Descrição 
 
+![](https://github.com/Data-Aqa/conteudo/blob/master/analise%20ucrania/imagens/mapa_animado.gif)
 
 <br>
 
