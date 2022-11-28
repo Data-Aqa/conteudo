@@ -4,6 +4,6 @@
 
 <br>
 
-Este projeto foi apresentado na Semana de Economia da Unesp e tem um texto publicado no [Medium](https://medium.com/p/98bc0c1bc411/edit)
+Este projeto foi apresentado na Semana de Economia da Unesp e tem um texto publicado no [Medium](https://medium.com/p/98bc0c1bc411/edit).<br>
 Aqui trazemos uma explicação sobre o que é Análise de Dados e como você pode utilizar 
 o Python para fazer as suas! 
